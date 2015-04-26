@@ -1,0 +1,1896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scores sport="soccer">
+  <category name="England: Premier League" id="1204" file_group="england">
+    <matches date="May 10" formatted_date="10.05.2011">
+      <match status="FT" date="May 10" formatted_date="10.05.2011" time="18:45" fix_id="444091" id="390939">
+        <localteam name="Manchester City" goals="1" id="9259" />
+        <visitorteam name="Tottenham" goals="0" id="9406" />
+        <events>
+          <event type="goal" minute="30" team="localteam" player="Crouch (o.g.)" result="[1 - 0]" playerId="191" eventid="3909391" />
+          <event type="yellowcard" minute="80" team="localteam" player="Milner" result="" playerId="2899" eventid="3909392" />
+          <event type="yellowcard" minute="83" team="visitorteam" player="Pienaar" result="" playerId="1960" eventid="3909393" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="May 09" formatted_date="09.05.2011" time="19:00" fix_id="446767" id="390968">
+        <localteam name="Fulham" goals="2" id="9175" />
+        <visitorteam name="Liverpool" goals="5" id="9249" />
+        <events>
+          <event type="goal" minute="1" team="visitorteam" player="Rodriguez" result="[0 - 1]" playerId="120" eventid="3909681" />
+          <event type="yellowcard" minute="2" team="localteam" player="Murphy" result="" playerId="2943" eventid="3909682" />
+          <event type="goal" minute="7" team="visitorteam" player="Rodriguez" result="[0 - 2]" playerId="120" eventid="3909683" />
+          <event type="goal" minute="16" team="visitorteam" player="Kuyt" result="[0 - 3]" playerId="45" eventid="3909684" />
+          <event type="yellowcard" minute="45" team="localteam" player="Dempsey" result="" playerId="664" eventid="3909685" />
+          <event type="yellowcard" minute="57" team="visitorteam" player="Reina" result="" playerId="318" eventid="3909686" />
+          <event type="goal" minute="57" team="localteam" player="Dembele" result="[1 - 3]" playerId="2197" eventid="3909687" />
+          <event type="yellowcard" minute="61" team="localteam" player="Salcido" result="" playerId="2396" eventid="3909688" />
+          <event type="yellowcard" minute="66" team="visitorteam" player="Skrtel" result="" playerId="5940" eventid="3909689" />
+          <event type="goal" minute="70" team="visitorteam" player="Rodriguez" result="[1 - 4]" playerId="120" eventid="39096810" />
+          <event type="yellowcard" minute="74" team="localteam" player="Sidwell" result="" playerId="2576" eventid="39096811" />
+          <event type="goal" minute="75" team="visitorteam" player="Suarez" result="[1 - 5]" playerId="2290" eventid="39096812" />
+          <event type="goal" minute="86" team="localteam" player="Sidwell" result="[2 - 5]" playerId="2576" eventid="39096813" />
+          <event type="yellowcard" minute="88" team="localteam" player="Baird" result="" playerId="15481" eventid="39096814" />
+        </events>
+        <ht score="[0-3]" />
+      </match>
+      <match status="FT" date="May 08" formatted_date="08.05.2011" time="15:10" fix_id="446998" id="390969">
+        <localteam name="Manchester Utd" goals="2" id="9260" />
+        <visitorteam name="Chelsea" goals="1" id="9092" />
+        <events>
+          <event type="goal" minute="1" team="localteam" player="Hernandez" result="[1 - 0]" playerId="53937" eventid="3909691" />
+          <event type="yellowcard" minute="12" team="visitorteam" player="Ivanovic" result="" playerId="6456" eventid="3909692" />
+          <event type="goal" minute="23" team="localteam" player="Vidic" result="[2 - 0]" playerId="756" eventid="3909693" />
+          <event type="yellowcard" minute="39" team="localteam" player="Rooney" result="" playerId="193" eventid="3909694" />
+          <event type="yellowcard" minute="43" team="visitorteam" player="Essien" result="" playerId="621" eventid="3909695" />
+          <event type="goal" minute="68" team="visitorteam" player="Lampard" result="[2 - 1]" playerId="189" eventid="3909696" />
+          <event type="yellowcard" minute="83" team="localteam" player="Giggs" result="" playerId="2912" eventid="3909697" />
+          <event type="yellowcard" minute="86" team="visitorteam" player="Ramires" result="" playerId="10085" eventid="3909698" />
+          <event type="yellowcard" minute="90" team="visitorteam" player="Drogba" result="" playerId="310" eventid="3909699" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="May 08" formatted_date="08.05.2011" time="13:05" fix_id="447041" id="390971">
+        <localteam name="Stoke" goals="3" id="9378" />
+        <visitorteam name="Arsenal" goals="1" id="9002" />
+        <events>
+          <event type="goal" minute="28" team="localteam" player="Jones" result="[1 - 0]" playerId="647" eventid="3909711" />
+          <event type="goal" minute="40" team="localteam" player="Pennant" result="[2 - 0]" playerId="2974" eventid="3909712" />
+          <event type="yellowcard" minute="61" team="visitorteam" player="Bendtner" result="" playerId="16090" eventid="3909713" />
+          <event type="yellowcard" minute="71" team="localteam" player="Pennant" result="" playerId="2974" eventid="3909714" />
+          <event type="yellowcard" minute="71" team="visitorteam" player="Wilshere" result="" playerId="61075" eventid="3909715" />
+          <event type="goal" minute="81" team="visitorteam" player="Van Persie" result="[2 - 1]" playerId="49" eventid="3909716" />
+          <event type="goal" minute="82" team="localteam" player="Walters" result="[3 - 1]" playerId="15748" eventid="3909717" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="May 08" formatted_date="08.05.2011" time="11:00" fix_id="243467" id="390974">
+        <localteam name="Wolves" goals="3" id="9446" />
+        <visitorteam name="West Brom" goals="1" id="9426" />
+        <events>
+          <event type="goal" minute="15" team="localteam" player="Fletcher" result="[1 - 0]" playerId="890" eventid="3909741" />
+          <event type="goal" minute="28" team="localteam" player="Guedioura" result="[2 - 0]" playerId="53518" eventid="3909742" />
+          <event type="goal" minute="47" team="localteam" player="Fletcher" result="[3 - 0]" playerId="890" eventid="3909743" />
+          <event type="yellowcard" minute="54" team="localteam" player="Guedioura" result="" playerId="53518" eventid="3909744" />
+          <event type="goal" minute="54" team="visitorteam" player="Odemwingie (pen.)" result="[3 - 1]" playerId="2074" eventid="3909745" />
+          <event type="yellowcard" minute="59" team="visitorteam" player="Mulumbu" result="" playerId="5926" eventid="3909746" />
+          <event type="yellowcard" minute="79" team="localteam" player="Craddock" result="" playerId="15388" eventid="3909747" />
+          <event type="yellowcard" minute="82" team="localteam" player="Henry" result="" playerId="15397" eventid="3909748" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="16:30" fix_id="1357" id="390972">
+        <localteam name="Tottenham" goals="1" id="9406" />
+        <visitorteam name="Blackpool" goals="1" id="9045" />
+        <events>
+          <event type="yellowcard" minute="22" team="visitorteam" player="Eardley" result="" playerId="51052" eventid="3909721" />
+          <event type="yellowcard" minute="34" team="localteam" player="Gallas" result="" playerId="538" eventid="3909722" />
+          <event type="yellowcard" minute="40" team="visitorteam" player="Kornilenko" result="" playerId="36880" eventid="3909723" />
+          <event type="yellowcard" minute="75" team="localteam" player="Dawson" result="" playerId="2932" eventid="3909724" />
+          <event type="goal" minute="76" team="visitorteam" player="Adam (pen.)" result="[0 - 1]" playerId="835" eventid="3909725" />
+          <event type="yellowcard" minute="79" team="localteam" player="Lennon" result="" playerId="190" eventid="3909726" />
+          <event type="goal" minute="89" team="localteam" player="Defoe" result="[1 - 1]" playerId="2950" eventid="3909727" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="1350" id="390965">
+        <localteam name="Aston Villa" goals="1" id="9008" />
+        <visitorteam name="Wigan" goals="1" id="9434" />
+        <events>
+          <event type="goal" minute="10" team="visitorteam" player="N Zogbia" result="[0 - 1]" playerId="2898" eventid="3909651" />
+          <event type="goal" minute="17" team="localteam" player="Young A." result="[1 - 1]" playerId="2553" eventid="3909652" />
+          <event type="yellowcard" minute="33" team="localteam" player="Heskey" result="" playerId="2678" eventid="3909653" />
+          <event type="yellowcard" minute="90" team="localteam" player="Young A." result="" playerId="2553" eventid="3909654" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="1351" id="390967">
+        <localteam name="Bolton" goals="1" id="9048" />
+        <visitorteam name="Sunderland" goals="2" id="9384" />
+        <events>
+          <event type="goal" minute="45" team="visitorteam" player="Zenden" result="[0 - 1]" playerId="2976" eventid="3909671" />
+          <event type="yellowcard" minute="56" team="localteam" player="Davies K." result="" playerId="2634" eventid="3909672" />
+          <event type="goal" minute="87" team="localteam" player="Klasnic" result="[1 - 1]" playerId="369" eventid="3909673" />
+          <event type="goal" minute="90" team="visitorteam" player="Knight (o.g.)" result="[1 - 2]" playerId="2814" eventid="3909674" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="1352" id="390966">
+        <localteam name="Everton" goals="2" id="9158" />
+        <visitorteam name="Manchester City" goals="1" id="9259" />
+        <events>
+          <event type="goal" minute="28" team="visitorteam" player="Toure Y." result="[0 - 1]" playerId="4496" eventid="3909661" />
+          <event type="yellowcard" minute="45" team="localteam" player="Neville" result="" playerId="2874" eventid="3909662" />
+          <event type="yellowcard" minute="61" team="localteam" player="Rodwell" result="" playerId="23173" eventid="3909663" />
+          <event type="yellowcard" minute="61" team="visitorteam" player="Kompany" result="" playerId="1998" eventid="3909664" />
+          <event type="goal" minute="65" team="localteam" player="Distin" result="[1 - 1]" playerId="2846" eventid="3909665" />
+          <event type="yellowcard" minute="67" team="localteam" player="Osman" result="" playerId="2880" eventid="3909666" />
+          <event type="yellowcard" minute="71" team="visitorteam" player="Kolarov" result="" playerId="17782" eventid="3909667" />
+          <event type="goal" minute="72" team="localteam" player="Osman" result="[2 - 1]" playerId="2880" eventid="3909668" />
+          <event type="yellowcard" minute="90" team="localteam" player="Coleman" result="" playerId="7158" eventid="3909669" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="1355" id="390970">
+        <localteam name="Newcastle" goals="2" id="9287" />
+        <visitorteam name="Birmingham" goals="1" id="9039" />
+        <events>
+          <event type="redcard" minute="35" team="visitorteam" player="Ridgewell" result="" playerId="2796" eventid="3909701" />
+          <event type="goal" minute="36" team="localteam" player="Ameobi (pen.)" result="[1 - 0]" playerId="2905" eventid="3909702" />
+          <event type="goal" minute="43" team="localteam" player="Taylor S." result="[2 - 0]" playerId="2892" eventid="3909703" />
+          <event type="goal" minute="45" team="visitorteam" player="Bowyer" result="[2 - 1]" playerId="2719" eventid="3909704" />
+          <event type="yellowcard" minute="73" team="visitorteam" player="Bowyer" result="" playerId="2719" eventid="3909705" />
+          <event type="yellowcard" minute="76" team="visitorteam" player="Jiranek" result="" playerId="10081" eventid="3909706" />
+          <event type="yellowcard" minute="90" team="localteam" player="Tiote" result="" playerId="13562" eventid="3909707" />
+          <event type="yellowcard" minute="90" team="visitorteam" player="Jerome" result="" playerId="16031" eventid="3909708" />
+          <event type="yellowcard" minute="90" team="visitorteam" player="Larsson" result="" playerId="16025" eventid="3909709" />
+        </events>
+        <ht score="[2-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="1358" id="390973">
+        <localteam name="West Ham" goals="1" id="9427" />
+        <visitorteam name="Blackburn" goals="1" id="9044" />
+        <events>
+          <event type="goal" minute="12" team="visitorteam" player="Roberts" result="[0 - 1]" playerId="2701" eventid="3909731" />
+          <event type="yellowcard" minute="38" team="localteam" player="Da Costa" result="" playerId="2388" eventid="3909732" />
+          <event type="yellowcard" minute="47" team="localteam" player="Boa Morte" result="" playerId="381" eventid="3909733" />
+          <event type="yellowcard" minute="69" team="localteam" player="Spector" result="" playerId="2712" eventid="3909734" />
+          <event type="goal" minute="78" team="localteam" player="Hitzlsperger" result="[1 - 1]" playerId="29" eventid="3909735" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="May 01" formatted_date="01.05.2011" time="15:10" fix_id="322859" id="390961">
+        <localteam name="Manchester City" goals="2" id="9259" />
+        <visitorteam name="West Ham" goals="1" id="9427" />
+        <events>
+          <event type="goal" minute="10" team="localteam" player="De Jong" result="[1 - 0]" playerId="2006" eventid="3909611" />
+          <event type="goal" minute="15" team="localteam" player="Jacobsen (o.g.)" result="[2 - 0]" playerId="32135" eventid="3909612" />
+          <event type="goal" minute="33" team="visitorteam" player="Ba" result="[2 - 1]" playerId="13192" eventid="3909613" />
+          <event type="yellowcard" minute="35" team="localteam" player="Zabaleta" result="" playerId="3259" eventid="3909614" />
+          <event type="yellowcard" minute="49" team="visitorteam" player="Gabbidon" result="" playerId="2714" eventid="3909615" />
+          <event type="yellowcard" minute="67" team="localteam" player="Barry" result="" playerId="2800" eventid="3909616" />
+          <event type="yellowcard" minute="69" team="localteam" player="Johnson" result="" playerId="2833" eventid="3909617" />
+        </events>
+        <ht score="[2-1]" />
+      </match>
+      <match status="FT" date="May 01" formatted_date="01.05.2011" time="13:05" fix_id="322858" id="390955">
+        <localteam name="Arsenal" goals="1" id="9002" />
+        <visitorteam name="Manchester Utd" goals="0" id="9260" />
+        <events>
+          <event type="yellowcard" minute="40" team="visitorteam" player="Rooney" result="" playerId="193" eventid="3909551" />
+          <event type="goal" minute="56" team="localteam" player="Ramsey" result="[1 - 0]" playerId="66532" eventid="3909552" />
+          <event type="yellowcard" minute="62" team="localteam" player="Song" result="" playerId="2962" eventid="3909553" />
+          <event type="yellowcard" minute="66" team="visitorteam" player="Park" result="" playerId="453" eventid="3909554" />
+          <event type="yellowcard" minute="76" team="visitorteam" player="Fabio" result="" playerId="61064" eventid="3909555" />
+          <event type="yellowcard" minute="90" team="localteam" player="Ramsey" result="" playerId="66532" eventid="3909556" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 01" formatted_date="01.05.2011" time="11:00" fix_id="1349" id="390956">
+        <localteam name="Birmingham" goals="1" id="9039" />
+        <visitorteam name="Wolves" goals="1" id="9446" />
+        <events>
+          <event type="yellowcard" minute="6" team="localteam" player="Foster" result="" playerId="2528" eventid="3909561" />
+          <event type="goal" minute="7" team="visitorteam" player="Fletcher (pen.)" result="[0 - 1]" playerId="890" eventid="3909562" />
+          <event type="yellowcard" minute="8" team="localteam" player="Gardner" result="" playerId="2808" eventid="3909563" />
+          <event type="yellowcard" minute="9" team="visitorteam" player="O Hara" result="" playerId="5888" eventid="3909564" />
+          <event type="goal" minute="27" team="localteam" player="Larsson" result="[1 - 1]" playerId="16025" eventid="3909565" />
+          <event type="yellowred" minute="29" team="localteam" player="Gardner" result="" playerId="2808" eventid="3909566" />
+          <event type="yellowcard" minute="33" team="visitorteam" player="Craddock" result="" playerId="15388" eventid="3909567" />
+          <event type="yellowcard" minute="54" team="visitorteam" player="Henry" result="" playerId="15397" eventid="3909568" />
+          <event type="yellowcard" minute="79" team="localteam" player="Bowyer" result="" playerId="2719" eventid="3909569" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="May 01" formatted_date="01.05.2011" time="11:00" fix_id="322857" id="390960">
+        <localteam name="Liverpool" goals="3" id="9249" />
+        <visitorteam name="Newcastle" goals="0" id="9287" />
+        <events>
+          <event type="goal" minute="10" team="localteam" player="Rodriguez" result="[1 - 0]" playerId="120" eventid="3909601" />
+          <event type="yellowcard" minute="29" team="localteam" player="Flanagan" result="" playerId="166828" eventid="3909602" />
+          <event type="yellowcard" minute="51" team="visitorteam" player="Tiote" result="" playerId="13562" eventid="3909603" />
+          <event type="yellowcard" minute="59" team="visitorteam" player="Williamson" result="" playerId="50776" eventid="3909604" />
+          <event type="goal" minute="59" team="localteam" player="Kuyt (pen.)" result="[2 - 0]" playerId="45" eventid="3909605" />
+          <event type="goal" minute="65" team="localteam" player="Suarez" result="[3 - 0]" playerId="2290" eventid="3909606" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: Championship" id="1205" file_group="england">
+    <matches date="May 07" formatted_date="07.05.2011">
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323068" id="392082">
+        <localteam name="Barnsley" goals="1" id="9021" />
+        <visitorteam name="Millwall" goals="0" id="9276" />
+        <events>
+          <event type="goal" minute="60" team="localteam" player="Noble-Lazarus" result="[1 - 0]" playerId="65007" eventid="3920821" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323069" id="392083">
+        <localteam name="Bristol City" goals="3" id="9066" />
+        <visitorteam name="Hull" goals="0" id="9221" />
+        <events>
+          <event type="goal" minute="3" team="localteam" player="Stead" result="[1 - 0]" playerId="4714" eventid="3920831" />
+          <event type="goal" minute="14" team="localteam" player="Pitman" result="[2 - 0]" playerId="50346" eventid="3920832" />
+          <event type="goal" minute="56" team="localteam" player="Campbell-Ryce" result="[3 - 0]" playerId="" eventid="3920833" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323067" id="392084">
+        <localteam name="Burnley" goals="1" id="9072" />
+        <visitorteam name="Cardiff" goals="1" id="9083" />
+        <events>
+          <event type="goal" minute="13" team="localteam" player="Rodriguez" result="[1 - 0]" playerId="15915" eventid="3920841" />
+          <event type="goal" minute="90" team="visitorteam" player="Bellamy" result="[1 - 1]" playerId="2982" eventid="3920842" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323070" id="392085">
+        <localteam name="Crystal Palace" goals="0" id="9127" />
+        <visitorteam name="Nottingham" goals="3" id="9297" />
+        <events>
+          <event type="goal" minute="17" team="visitorteam" player="Mcgugan" result="[0 - 1]" playerId="47496" eventid="3920851" />
+          <event type="redcard" minute="25" team="localteam" player="Moxey" result="" playerId="50538" eventid="3920852" />
+          <event type="goal" minute="70" team="visitorteam" player="Tudgay" result="[0 - 2]" playerId="15524" eventid="3920853" />
+          <event type="goal" minute="80" team="visitorteam" player="Mcgoldrick" result="[0 - 3]" playerId="15490" eventid="3920854" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323065" id="392086">
+        <localteam name="Leicester" goals="4" id="9240" />
+        <visitorteam name="Ipswich" goals="2" id="9227" />
+        <events>
+          <event type="goal" minute="26" team="localteam" player="King" result="[1 - 0]" playerId="20816" eventid="3920861" />
+          <event type="goal" minute="42" team="localteam" player="Yakubu" result="[2 - 0]" playerId="2839" eventid="3920862" />
+          <event type="goal" minute="45" team="localteam" player="Abe" result="[3 - 0]" playerId="5338" eventid="3920863" />
+          <event type="goal" minute="69" team="visitorteam" player="Leadbitter (pen.)" result="[3 - 1]" playerId="16040" eventid="3920864" />
+          <event type="goal" minute="70" team="visitorteam" player="Wickham" result="[3 - 2]" playerId="76920" eventid="3920865" />
+          <event type="goal" minute="72" team="localteam" player="Kamara" result="[4 - 2]" playerId="36082" eventid="3920866" />
+        </events>
+        <ht score="[3-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323074" id="392087">
+        <localteam name="Middlesbrough" goals="3" id="9274" />
+        <visitorteam name="Doncaster" goals="0" id="9135" />
+        <events>
+          <event type="goal" minute="43" team="localteam" player="Robson" result="[1 - 0]" playerId="1013" eventid="3920871" />
+          <event type="goal" minute="66" team="localteam" player="Lita" result="[2 - 0]" playerId="2583" eventid="3920872" />
+          <event type="goal" minute="90" team="localteam" player="Reach" result="[3 - 0]" playerId="76916" eventid="3920873" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323063" id="392088">
+        <localteam name="Norwich" goals="2" id="9296" />
+        <visitorteam name="Coventry" goals="2" id="9116" />
+        <events>
+          <event type="goal" minute="54" team="visitorteam" player="Keogh" result="[0 - 1]" playerId="15921" eventid="3920881" />
+          <event type="goal" minute="56" team="localteam" player="Holt" result="[1 - 1]" playerId="50760" eventid="3920882" />
+          <event type="goal" minute="62" team="localteam" player="Pacheco" result="[2 - 1]" playerId="10203" eventid="3920883" />
+          <event type="goal" minute="64" team="visitorteam" player="Jutkiewicz" result="[2 - 2]" playerId="16078" eventid="3920884" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323073" id="392089">
+        <localteam name="Preston" goals="3" id="9317" />
+        <visitorteam name="Watford" goals="1" id="9423" />
+        <events>
+          <event type="goal" minute="13" team="visitorteam" player="Weimann" result="[0 - 1]" playerId="89062" eventid="3920891" />
+          <event type="goal" minute="28" team="localteam" player="Nicholson" result="[1 - 1]" playerId="986" eventid="3920892" />
+          <event type="goal" minute="56" team="localteam" player="Hume" result="[2 - 1]" playerId="10109" eventid="3920893" />
+          <event type="goal" minute="88" team="localteam" player="Proctor" result="[3 - 1]" playerId="113456" eventid="3920894" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323066" id="392090">
+        <localteam name="QPR" goals="1" id="9318" />
+        <visitorteam name="Leeds" goals="2" id="9238" />
+        <events>
+          <event type="goal" minute="1" team="localteam" player="Helguson" result="[1 - 0]" playerId="2755" eventid="3920901" />
+          <event type="goal" minute="38" team="visitorteam" player="Gradel" result="[1 - 1]" playerId="53399" eventid="3920902" />
+          <event type="goal" minute="68" team="visitorteam" player="Mccormack" result="[1 - 2]" playerId="917" eventid="3920903" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323064" id="392091">
+        <localteam name="Reading" goals="2" id="9324" />
+        <visitorteam name="Derby" goals="1" id="9133" />
+        <events>
+          <event type="goal" minute="24" team="localteam" player="Harte (pen.)" result="[1 - 0]" playerId="3923" eventid="3920911" />
+          <event type="goal" minute="32" team="visitorteam" player="Ward" result="[1 - 1]" playerId="50468" eventid="3920912" />
+          <event type="goal" minute="72" team="localteam" player="Robson-Kanu" result="[2 - 1]" playerId="46492" eventid="3920913" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323071" id="392092">
+        <localteam name="Scunthorpe" goals="1" id="9345" />
+        <visitorteam name="Portsmouth" goals="1" id="9314" />
+        <events>
+          <event type="goal" minute="27" team="localteam" player="Nunez" result="[1 - 0]" playerId="21923" eventid="3920921" />
+          <event type="goal" minute="81" team="visitorteam" player="Nugent" result="[1 - 1]" playerId="16057" eventid="3920922" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="11:45" fix_id="323072" id="392093">
+        <localteam name="Swansea" goals="4" id="9387" />
+        <visitorteam name="Sheffield Utd" goals="0" id="9348" />
+        <events>
+          <event type="goal" minute="30" team="localteam" player="Dobbie" result="[1 - 0]" playerId="33383" eventid="3920931" />
+          <event type="redcard" minute="54" team="visitorteam" player="Lowry" result="" playerId="90120" eventid="3920932" />
+          <event type="goal" minute="55" team="localteam" player="Sinclair (pen.)" result="[2 - 0]" playerId="20707" eventid="3920933" />
+          <event type="goal" minute="60" team="localteam" player="Dobbie" result="[3 - 0]" playerId="33383" eventid="3920934" />
+          <event type="goal" minute="90" team="localteam" player="Britton" result="[4 - 0]" playerId="47560" eventid="3920935" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="May 02" formatted_date="02.05.2011" time="18:45" fix_id="445637" id="392079">
+        <localteam name="Portsmouth" goals="0" id="9314" />
+        <visitorteam name="Norwich" goals="1" id="9296" />
+        <events>
+          <event type="goal" minute="50" team="visitorteam" player="Jackson" result="[0 - 1]" playerId="50554" eventid="3920791" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 02" formatted_date="02.05.2011" time="16:15" fix_id="445636" id="392070">
+        <localteam name="Cardiff" goals="0" id="9083" />
+        <visitorteam name="Middlesbrough" goals="3" id="9274" />
+        <events>
+          <event type="goal" minute="3" team="visitorteam" player="Lita" result="[0 - 1]" playerId="2583" eventid="3920701" />
+          <event type="goal" minute="13" team="visitorteam" player="Robson" result="[0 - 2]" playerId="1013" eventid="3920702" />
+          <event type="goal" minute="21" team="visitorteam" player="Smallwood" result="[0 - 3]" playerId="142690" eventid="3920703" />
+        </events>
+        <ht score="[0-3]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7436" id="392071">
+        <localteam name="Coventry" goals="0" id="9116" />
+        <visitorteam name="Reading" goals="0" id="9324" />
+        <events>
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7430" id="392072">
+        <localteam name="Derby" goals="0" id="9133" />
+        <visitorteam name="Bristol City" goals="2" id="9066" />
+        <events>
+          <event type="goal" minute="6" team="visitorteam" player="Stead" result="[0 - 1]" playerId="4714" eventid="3920721" />
+          <event type="goal" minute="66" team="visitorteam" player="Skuse" result="[0 - 2]" playerId="15930" eventid="3920722" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7433" id="392073">
+        <localteam name="Doncaster" goals="1" id="9135" />
+        <visitorteam name="Leicester" goals="1" id="9240" />
+        <events>
+          <event type="goal" minute="50" team="localteam" player="Brooker" result="[1 - 0]" playerId="15933" eventid="3920731" />
+          <event type="goal" minute="76" team="visitorteam" player="Yakubu" result="[1 - 1]" playerId="2839" eventid="3920732" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7428" id="392074">
+        <localteam name="Hull" goals="1" id="9221" />
+        <visitorteam name="Crystal Palace" goals="1" id="9127" />
+        <events>
+          <event type="goal" minute="31" team="localteam" player="Gerrard" result="[1 - 0]" playerId="51185" eventid="3920741" />
+          <event type="goal" minute="88" team="visitorteam" player="Sekajja" result="[1 - 1]" playerId="" eventid="3920742" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7426" id="392075">
+        <localteam name="Ipswich" goals="2" id="9227" />
+        <visitorteam name="Preston" goals="1" id="9317" />
+        <events>
+          <event type="goal" minute="10" team="localteam" player="Scotland" result="[1 - 0]" playerId="660" eventid="3920751" />
+          <event type="goal" minute="19" team="localteam" player="Norris" result="[2 - 0]" playerId="15651" eventid="3920752" />
+          <event type="goal" minute="52" team="visitorteam" player="Coutts" result="[2 - 1]" playerId="60714" eventid="3920753" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7435" id="392077">
+        <localteam name="Millwall" goals="0" id="9276" />
+        <visitorteam name="Swansea" goals="2" id="9387" />
+        <events>
+          <event type="goal" minute="30" team="visitorteam" player="Pratley" result="[0 - 1]" playerId="47561" eventid="3920771" />
+          <event type="goal" minute="47" team="visitorteam" player="Dobbie" result="[0 - 2]" playerId="33383" eventid="3920772" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7434" id="392078">
+        <localteam name="Nottingham" goals="5" id="9297" />
+        <visitorteam name="Scunthorpe" goals="1" id="9345" />
+        <events>
+          <event type="goal" minute="9" team="localteam" player="Boyd" result="[1 - 0]" playerId="839" eventid="3920781" />
+          <event type="goal" minute="25" team="localteam" player="Chambers" result="[2 - 0]" playerId="47491" eventid="3920782" />
+          <event type="goal" minute="36" team="visitorteam" player="O Connor (pen.)" result="[2 - 1]" playerId="50905" eventid="3920783" />
+          <event type="goal" minute="48" team="localteam" player="Anderson" result="[3 - 1]" playerId="2979" eventid="3920784" />
+          <event type="goal" minute="82" team="localteam" player="Chambers" result="[4 - 1]" playerId="47491" eventid="3920785" />
+          <event type="redcard" minute="89" team="localteam" player="Earnshaw" result="" playerId="15684" eventid="3920786" />
+          <event type="goal" minute="90" team="localteam" player="Boyd" result="[5 - 1]" playerId="839" eventid="3920787" />
+        </events>
+        <ht score="[2-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7431" id="392080">
+        <localteam name="Sheffield Utd" goals="2" id="9348" />
+        <visitorteam name="Barnsley" goals="2" id="9021" />
+        <events>
+          <event type="goal" minute="15" team="visitorteam" player="Haynes" result="[0 - 1]" playerId="15738" eventid="3920801" />
+          <event type="goal" minute="39" team="localteam" player="Lowton" result="[1 - 1]" playerId="85440" eventid="3920802" />
+          <event type="goal" minute="59" team="localteam" player="Williamson" result="[2 - 1]" playerId="5196" eventid="3920803" />
+          <event type="goal" minute="84" team="visitorteam" player="Haynes" result="[2 - 2]" playerId="15738" eventid="3920804" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7425" id="392081">
+        <localteam name="Watford" goals="0" id="9423" />
+        <visitorteam name="QPR" goals="2" id="9318" />
+        <events>
+          <event type="goal" minute="77" team="visitorteam" player="Taarabt" result="[0 - 1]" playerId="5885" eventid="3920811" />
+          <event type="goal" minute="90" team="visitorteam" player="Smith" result="[0 - 2]" playerId="5195" eventid="3920812" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="11:45" fix_id="7429" id="392076">
+        <localteam name="Leeds" goals="1" id="9238" />
+        <visitorteam name="Burnley" goals="0" id="9072" />
+        <events>
+          <event type="goal" minute="33" team="localteam" player="Mccormack" result="[1 - 0]" playerId="917" eventid="3920761" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: League One" id="1206" file_group="england">
+    <matches date="May 07" formatted_date="07.05.2011">
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7998" id="392638">
+        <localteam name="Bournemouth" goals="1" id="9053" />
+        <visitorteam name="Rochdale" goals="2" id="9329" />
+        <events>
+          <event type="goal" minute="27" team="localteam" player="Pearce" result="[1 - 0]" playerId="50340" eventid="3926381" />
+          <event type="goal" minute="35" team="visitorteam" player="Done" result="[1 - 1]" playerId="36429" eventid="3926382" />
+          <event type="goal" minute="80" team="visitorteam" player="Gray" result="[1 - 2]" playerId="129091" eventid="3926383" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7994" id="392639">
+        <localteam name="Carlisle" goals="0" id="9084" />
+        <visitorteam name="Yeovil" goals="2" id="9459" />
+        <events>
+          <event type="goal" minute="26" team="visitorteam" player="Obika" result="[0 - 1]" playerId="68626" eventid="3926391" />
+          <event type="goal" minute="69" team="visitorteam" player="Bowditch" result="[0 - 2]" playerId="15753" eventid="3926392" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7990" id="392640">
+        <localteam name="Charlton" goals="0" id="9088" />
+        <visitorteam name="Hartlepool" goals="0" id="9202" />
+        <events>
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7989" id="392641">
+        <localteam name="Colchester" goals="2" id="9106" />
+        <visitorteam name="Bristol Rovers" goals="1" id="9067" />
+        <events>
+          <event type="goal" minute="28" team="localteam" player="Henderson" result="[1 - 0]" playerId="51043" eventid="3926411" />
+          <event type="goal" minute="30" team="localteam" player="Henderson" result="[2 - 0]" playerId="51043" eventid="3926412" />
+          <event type="goal" minute="72" team="visitorteam" player="Richards" result="[2 - 1]" playerId="92622" eventid="3926413" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7993" id="392642">
+        <localteam name="Huddersfield" goals="4" id="9220" />
+        <visitorteam name="Brentford" goals="4" id="9059" />
+        <events>
+          <event type="goal" minute="14" team="localteam" player="Ward" result="[1 - 0]" playerId="89493" eventid="3926421" />
+          <event type="goal" minute="15" team="localteam" player="Ward" result="[2 - 0]" playerId="89493" eventid="3926422" />
+          <event type="goal" minute="45" team="visitorteam" player="Schlupp" result="[2 - 1]" playerId="" eventid="3926423" />
+          <event type="goal" minute="50" team="visitorteam" player="Schlupp" result="[2 - 2]" playerId="" eventid="3926424" />
+          <event type="goal" minute="52" team="localteam" player="Novak" result="[3 - 2]" playerId="65431" eventid="3926425" />
+          <event type="goal" minute="58" team="visitorteam" player="Grabban" result="[3 - 3]" playerId="15809" eventid="3926426" />
+          <event type="goal" minute="63" team="localteam" player="Afobe" result="[4 - 3]" playerId="158576" eventid="3926427" />
+          <event type="goal" minute="68" team="visitorteam" player="Grabban" result="[4 - 4]" playerId="15809" eventid="3926428" />
+        </events>
+        <ht score="[2-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7995" id="392643">
+        <localteam name="Notts County" goals="1" id="9298" />
+        <visitorteam name="Brighton" goals="1" id="9065" />
+        <events>
+          <event type="goal" minute="12" team="visitorteam" player="Barnes" result="[0 - 1]" playerId="36301" eventid="3926431" />
+          <event type="goal" minute="36" team="localteam" player="Greer (o.g.)" result="[1 - 1]" playerId="1046" eventid="3926432" />
+          <event type="redcard" minute="90" team="localteam" player="Sodje" result="" playerId="2572" eventid="3926433" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7992" id="392644">
+        <localteam name="Oldham" goals="1" id="9301" />
+        <visitorteam name="Milton Keynes" goals="2" id="9277" />
+        <events>
+          <event type="goal" minute="28" team="visitorteam" player="Balanta" result="[0 - 1]" playerId="24705" eventid="3926441" />
+          <event type="goal" minute="34" team="localteam" player="Winchester" result="[1 - 1]" playerId="163885" eventid="3926442" />
+          <event type="goal" minute="50" team="visitorteam" player="Marsh-Brown" result="[1 - 2]" playerId="69160" eventid="3926443" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7999" id="392645">
+        <localteam name="Peterborough" goals="5" id="9309" />
+        <visitorteam name="Dagenham &amp; Red." goals="0" id="9129" />
+        <events>
+          <event type="goal" minute="11" team="localteam" player="Mendez-Laing" result="[1 - 0]" playerId="91559" eventid="3926451" />
+          <event type="goal" minute="65" team="localteam" player="Mccann" result="[2 - 0]" playerId="15981" eventid="3926452" />
+          <event type="goal" minute="82" team="localteam" player="Boyd" result="[3 - 0]" playerId="51083" eventid="3926453" />
+          <event type="goal" minute="84" team="localteam" player="Mackail-Smith" result="[4 - 0]" playerId="51085" eventid="3926454" />
+          <event type="goal" minute="90" team="localteam" player="Ball" result="[5 - 0]" playerId="140795" eventid="3926455" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7997" id="392646">
+        <localteam name="Plymouth" goals="1" id="9311" />
+        <visitorteam name="Leyton Orient" goals="4" id="9246" />
+        <events>
+          <event type="goal" minute="13" team="visitorteam" player="Mcgleish (pen.)" result="[0 - 1]" playerId="50782" eventid="3926461" />
+          <event type="goal" minute="15" team="visitorteam" player="Cox" result="[0 - 2]" playerId="50809" eventid="3926462" />
+          <event type="goal" minute="63" team="localteam" player="Bolasie" result="[1 - 2]" playerId="71338" eventid="3926463" />
+          <event type="redcard" minute="75" team="localteam" player="Larrieu" result="" playerId="15657" eventid="3926464" />
+          <event type="goal" minute="77" team="visitorteam" player="Revell" result="[1 - 3]" playerId="51107" eventid="3926465" />
+          <event type="goal" minute="89" team="visitorteam" player="Revell" result="[1 - 4]" playerId="51107" eventid="3926466" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7996" id="392647">
+        <localteam name="Sheffield Wed" goals="1" id="9349" />
+        <visitorteam name="Exeter" goals="2" id="9160" />
+        <events>
+          <event type="goal" minute="13" team="localteam" player="Johnson" result="[1 - 0]" playerId="15530" eventid="3926471" />
+          <event type="goal" minute="76" team="visitorteam" player="Nardiello" result="[1 - 1]" playerId="15601" eventid="3926472" />
+          <event type="goal" minute="89" team="visitorteam" player="Archibald-Henville" result="[1 - 2]" playerId="" eventid="3926473" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8000" id="392648">
+        <localteam name="Southampton" goals="3" id="9363" />
+        <visitorteam name="Walsall" goals="1" id="9416" />
+        <events>
+          <event type="goal" minute="26" team="localteam" player="Do Prado" result="[1 - 0]" playerId="18664" eventid="3926481" />
+          <event type="goal" minute="29" team="localteam" player="Connolly" result="[2 - 0]" playerId="2680" eventid="3926482" />
+          <event type="goal" minute="45" team="visitorteam" player="Gray" result="[2 - 1]" playerId="15837" eventid="3926483" />
+          <event type="goal" minute="68" team="localteam" player="Chamberlain" result="[3 - 1]" playerId="120695" eventid="3926484" />
+        </events>
+        <ht score="[2-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="7991" id="392649">
+        <localteam name="Tranmere" goals="0" id="9408" />
+        <visitorteam name="Swindon" goals="2" id="9389" />
+        <events>
+          <event type="goal" minute="10" team="visitorteam" player="Jean-Francois" result="[0 - 1]" playerId="140786" eventid="3926491" />
+          <event type="goal" minute="38" team="visitorteam" player="Timlin" result="[0 - 2]" playerId="2746" eventid="3926492" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="May 02" formatted_date="02.05.2011" time="14:00" fix_id="439266" id="392566">
+        <localteam name="Plymouth" goals="1" id="9311" />
+        <visitorteam name="Southampton" goals="3" id="9363" />
+        <events>
+          <event type="goal" minute="45" team="visitorteam" player="Lambert" result="[0 - 1]" playerId="50849" eventid="3925661" />
+          <event type="goal" minute="49" team="visitorteam" player="Dickson" result="[0 - 2]" playerId="15660" eventid="3925662" />
+          <event type="goal" minute="59" team="visitorteam" player="Lambert (pen.)" result="[0 - 3]" playerId="50849" eventid="3925663" />
+          <event type="goal" minute="90" team="localteam" player="Bolasie" result="[1 - 3]" playerId="71338" eventid="3925664" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7979" id="392626">
+        <localteam name="Brentford" goals="0" id="9059" />
+        <visitorteam name="Southampton" goals="3" id="9363" />
+        <events>
+          <event type="goal" minute="16" team="visitorteam" player="Lallana" result="[0 - 1]" playerId="15497" eventid="3926261" />
+          <event type="goal" minute="30" team="visitorteam" player="Connolly" result="[0 - 2]" playerId="2680" eventid="3926262" />
+          <event type="goal" minute="90" team="visitorteam" player="Gobern" result="[0 - 3]" playerId="67757" eventid="3926263" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7988" id="392627">
+        <localteam name="Brighton" goals="2" id="9065" />
+        <visitorteam name="Huddersfield" goals="3" id="9220" />
+        <events>
+          <event type="goal" minute="8" team="visitorteam" player="Afobe" result="[0 - 1]" playerId="158576" eventid="3926271" />
+          <event type="goal" minute="47" team="localteam" player="Barnes" result="[1 - 1]" playerId="36301" eventid="3926272" />
+          <event type="goal" minute="61" team="visitorteam" player="Afobe" result="[1 - 2]" playerId="158576" eventid="3926273" />
+          <event type="goal" minute="69" team="localteam" player="Sparrow" result="[2 - 2]" playerId="15550" eventid="3926274" />
+          <event type="goal" minute="90" team="visitorteam" player="Ward" result="[2 - 3]" playerId="89493" eventid="3926275" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7984" id="392628">
+        <localteam name="Bristol Rovers" goals="1" id="9067" />
+        <visitorteam name="Sheffield Wed" goals="1" id="9349" />
+        <events>
+          <event type="goal" minute="3" team="visitorteam" player="Miller (pen.)" result="[0 - 1]" playerId="15751" eventid="3926281" />
+          <event type="goal" minute="12" team="localteam" player="Hoskins (pen.)" result="[1 - 1]" playerId="4711" eventid="3926282" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7981" id="392629">
+        <localteam name="Dagenham &amp; Red." goals="3" id="9129" />
+        <visitorteam name="Carlisle" goals="0" id="9084" />
+        <events>
+          <event type="goal" minute="4" team="localteam" player="Nurse" result="[1 - 0]" playerId="50485" eventid="3926291" />
+          <event type="goal" minute="29" team="localteam" player="Nurse" result="[2 - 0]" playerId="50485" eventid="3926292" />
+          <event type="goal" minute="84" team="localteam" player="Green" result="[3 - 0]" playerId="106645" eventid="3926293" />
+          <event type="redcard" minute="87" team="localteam" player="Green" result="" playerId="106645" eventid="3926294" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7980" id="392631">
+        <localteam name="Hartlepool" goals="2" id="9202" />
+        <visitorteam name="Bournemouth" goals="2" id="9053" />
+        <events>
+          <event type="goal" minute="29" team="visitorteam" player="Lovell" result="[0 - 1]" playerId="40975" eventid="3926311" />
+          <event type="goal" minute="38" team="visitorteam" player="Mcdermott" result="[0 - 2]" playerId="104599" eventid="3926312" />
+          <event type="goal" minute="52" team="localteam" player="Boyd (pen.)" result="[1 - 2]" playerId="50994" eventid="3926313" />
+          <event type="goal" minute="90" team="localteam" player="Flinders" result="[2 - 2]" playerId="15802" eventid="3926314" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7977" id="392632">
+        <localteam name="Leyton Orient" goals="0" id="9246" />
+        <visitorteam name="Tranmere" goals="3" id="9408" />
+        <events>
+          <event type="goal" minute="8" team="visitorteam" player="Cresswell" result="[0 - 1]" playerId="51175" eventid="3926321" />
+          <event type="goal" minute="45" team="visitorteam" player="Mcgurk" result="[0 - 2]" playerId="129851" eventid="3926322" />
+          <event type="goal" minute="49" team="visitorteam" player="Mcgurk" result="[0 - 3]" playerId="129851" eventid="3926323" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7986" id="392633">
+        <localteam name="Milton Keynes" goals="2" id="9277" />
+        <visitorteam name="Notts County" goals="1" id="9298" />
+        <events>
+          <event type="goal" minute="52" team="localteam" player="Baldock" result="[1 - 0]" playerId="129102" eventid="3926331" />
+          <event type="goal" minute="60" team="localteam" player="Balanta" result="[2 - 0]" playerId="24705" eventid="3926332" />
+          <event type="goal" minute="62" team="visitorteam" player="Hughes" result="[2 - 1]" playerId="51058" eventid="3926333" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7987" id="392634">
+        <localteam name="Rochdale" goals="2" id="9329" />
+        <visitorteam name="Peterborough" goals="2" id="9309" />
+        <events>
+          <event type="goal" minute="1" team="localteam" player="Akpro" result="[1 - 0]" playerId="1306" eventid="3926341" />
+          <event type="goal" minute="45" team="visitorteam" player="Mendez-Laing" result="[1 - 1]" playerId="91559" eventid="3926342" />
+          <event type="goal" minute="46" team="visitorteam" player="Tomlin" result="[1 - 2]" playerId="36318" eventid="3926343" />
+          <event type="goal" minute="87" team="localteam" player="Dawson" result="[2 - 2]" playerId="88227" eventid="3926344" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7983" id="392635">
+        <localteam name="Swindon" goals="0" id="9389" />
+        <visitorteam name="Oldham" goals="2" id="9301" />
+        <events>
+          <event type="goal" minute="17" team="visitorteam" player="Taylor" result="[0 - 1]" playerId="51067" eventid="3926351" />
+          <event type="goal" minute="65" team="visitorteam" player="Taylor" result="[0 - 2]" playerId="51067" eventid="3926352" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7978" id="392636">
+        <localteam name="Walsall" goals="2" id="9416" />
+        <visitorteam name="Charlton" goals="0" id="9088" />
+        <events>
+          <event type="goal" minute="34" team="localteam" player="Grigg" result="[1 - 0]" playerId="69281" eventid="3926361" />
+          <event type="goal" minute="78" team="localteam" player="Gray" result="[2 - 0]" playerId="15837" eventid="3926362" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="7985" id="392637">
+        <localteam name="Yeovil" goals="4" id="9459" />
+        <visitorteam name="Colchester" goals="2" id="9106" />
+        <events>
+          <event type="goal" minute="15" team="localteam" player="Alcock" result="[1 - 0]" playerId="51204" eventid="3926371" />
+          <event type="goal" minute="22" team="localteam" player="Tutte" result="[2 - 0]" playerId="97363" eventid="3926372" />
+          <event type="goal" minute="43" team="visitorteam" player="Vincent" result="[2 - 1]" playerId="50894" eventid="3926373" />
+          <event type="goal" minute="44" team="localteam" player="Bowditch" result="[3 - 1]" playerId="15753" eventid="3926374" />
+          <event type="goal" minute="63" team="visitorteam" player="Mooney" result="[3 - 2]" playerId="39562" eventid="3926375" />
+          <event type="goal" minute="64" team="localteam" player="Welsh" result="[4 - 2]" playerId="60716" eventid="3926376" />
+        </events>
+        <ht score="[3-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="11:00" fix_id="7982" id="392630">
+        <localteam name="Exeter" goals="1" id="9160" />
+        <visitorteam name="Plymouth" goals="0" id="9311" />
+        <events>
+          <event type="goal" minute="46" team="localteam" player="Dunne" result="[1 - 0]" playerId="89075" eventid="3926301" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: League Two" id="1197" file_group="england">
+    <matches date="May 07" formatted_date="07.05.2011">
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8544" id="393335">
+        <localteam name="Barnet" goals="1" id="9020" />
+        <visitorteam name="Port Vale" goals="0" id="9313" />
+        <events>
+          <event type="goal" minute="48" team="localteam" player="Mcleod (pen.)" result="[1 - 0]" playerId="16054" eventid="3933351" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8541" id="393336">
+        <localteam name="Bradford" goals="1" id="9056" />
+        <visitorteam name="Crewe" goals="5" id="9122" />
+        <events>
+          <event type="goal" minute="12" team="visitorteam" player="Miller" result="[0 - 1]" playerId="50916" eventid="3933361" />
+          <event type="goal" minute="23" team="localteam" player="Speight (pen.)" result="[1 - 1]" playerId="36225" eventid="3933362" />
+          <event type="goal" minute="32" team="visitorteam" player="Miller" result="[1 - 2]" playerId="50916" eventid="3933363" />
+          <event type="goal" minute="34" team="visitorteam" player="Donaldson" result="[1 - 3]" playerId="13093" eventid="3933364" />
+          <event type="goal" minute="45" team="visitorteam" player="Shelley" result="[1 - 4]" playerId="69441" eventid="3933365" />
+          <event type="goal" minute="67" team="visitorteam" player="Shelley" result="[1 - 5]" playerId="69441" eventid="3933366" />
+        </events>
+        <ht score="[1-4]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8546" id="393337">
+        <localteam name="Burton" goals="1" id="9074" />
+        <visitorteam name="Accrington" goals="1" id="8987" />
+        <events>
+          <event type="goal" minute="46" team="localteam" player="Penn" result="[1 - 0]" playerId="36142" eventid="3933371" />
+          <event type="goal" minute="84" team="visitorteam" player="Winnard" result="[1 - 1]" playerId="23288" eventid="3933372" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8542" id="393339">
+        <localteam name="Chesterfield" goals="3" id="9097" />
+        <visitorteam name="Gillingham" goals="1" id="9179" />
+        <events>
+          <event type="goal" minute="54" team="localteam" player="Whitaker" result="[1 - 0]" playerId="51056" eventid="3933391" />
+          <event type="goal" minute="67" team="visitorteam" player="Mcdonald" result="[1 - 1]" playerId="72294" eventid="3933392" />
+          <event type="goal" minute="76" team="localteam" player="Lester" result="[2 - 1]" playerId="50473" eventid="3933393" />
+          <event type="goal" minute="82" team="localteam" player="Smalley" result="[3 - 1]" playerId="51070" eventid="3933394" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8551" id="393338">
+        <localteam name="Lincoln" goals="0" id="9247" />
+        <visitorteam name="Aldershot" goals="3" id="8995" />
+        <events>
+          <event type="goal" minute="57" team="visitorteam" player="Hylton (pen.)" result="[0 - 1]" playerId="55754" eventid="3933381" />
+          <event type="goal" minute="69" team="visitorteam" player="Guttridge" result="[0 - 2]" playerId="15859" eventid="3933382" />
+          <event type="goal" minute="86" team="visitorteam" player="Guttridge" result="[0 - 3]" playerId="15859" eventid="3933383" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8550" id="393340">
+        <localteam name="Macclesfield" goals="1" id="9254" />
+        <visitorteam name="Hereford" goals="1" id="9210" />
+        <events>
+          <event type="goal" minute="29" team="visitorteam" player="Green" result="[0 - 1]" playerId="50834" eventid="3933401" />
+          <event type="redcard" minute="55" team="visitorteam" player="Townsend" result="" playerId="50881" eventid="3933402" />
+          <event type="goal" minute="57" team="localteam" player="Chalmers (pen.)" result="[1 - 1]" playerId="53123" eventid="3933403" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8552" id="393341">
+        <localteam name="Morecambe" goals="1" id="9280" />
+        <visitorteam name="Northampton" goals="2" id="9293" />
+        <events>
+          <event type="goal" minute="24" team="visitorteam" player="Thornton" result="[0 - 1]" playerId="15831" eventid="3933411" />
+          <event type="goal" minute="84" team="visitorteam" player="Tozer" result="[0 - 2]" playerId="21161" eventid="3933412" />
+          <event type="goal" minute="90" team="localteam" player="Cowperthwaite" result="[1 - 2]" playerId="" eventid="3933413" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8549" id="393342">
+        <localteam name="Rotherham" goals="3" id="9333" />
+        <visitorteam name="Torquay" goals="1" id="9405" />
+        <events>
+          <event type="goal" minute="10" team="localteam" player="Taylor" result="[1 - 0]" playerId="51124" eventid="3933421" />
+          <event type="goal" minute="31" team="visitorteam" player="Zebroski" result="[1 - 1]" playerId="36356" eventid="3933422" />
+          <event type="goal" minute="33" team="localteam" player="Harrison" result="[2 - 1]" playerId="50733" eventid="3933423" />
+          <event type="goal" minute="80" team="localteam" player="Banks" result="[3 - 1]" playerId="842" eventid="3933424" />
+        </events>
+        <ht score="[2-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8543" id="393343">
+        <localteam name="Shrewsbury" goals="3" id="9354" />
+        <visitorteam name="Oxford Utd" goals="0" id="9306" />
+        <events>
+          <event type="goal" minute="52" team="localteam" player="Wright" result="[1 - 0]" playerId="51020" eventid="3933431" />
+          <event type="goal" minute="77" team="localteam" player="Davies" result="[2 - 0]" playerId="50670" eventid="3933432" />
+          <event type="goal" minute="89" team="localteam" player="Ainsworth" result="[3 - 0]" playerId="47490" eventid="3933433" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8545" id="393344">
+        <localteam name="Stevenage" goals="3" id="9374" />
+        <visitorteam name="Bury" goals="3" id="9075" />
+        <events>
+          <event type="goal" minute="8" team="localteam" player="Laird" result="[1 - 0]" playerId="15658" eventid="3933441" />
+          <event type="goal" minute="16" team="visitorteam" player="Schumacher" result="[1 - 1]" playerId="50903" eventid="3933442" />
+          <event type="goal" minute="19" team="localteam" player="Reid (pen.)" result="[2 - 1]" playerId="65435" eventid="3933443" />
+          <event type="goal" minute="31" team="visitorteam" player="Ajose" result="[2 - 2]" playerId="155730" eventid="3933444" />
+          <event type="goal" minute="70" team="visitorteam" player="Schumacher" result="[2 - 3]" playerId="50903" eventid="3933445" />
+          <event type="goal" minute="73" team="localteam" player="May" result="[3 - 3]" playerId="21493" eventid="3933446" />
+        </events>
+        <ht score="[2-2]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8547" id="393345">
+        <localteam name="Stockport" goals="1" id="9376" />
+        <visitorteam name="Cheltenham" goals="1" id="9093" />
+        <events>
+          <event type="goal" minute="23" team="visitorteam" player="Smikle" result="[0 - 1]" playerId="36145" eventid="3933451" />
+          <event type="goal" minute="90" team="localteam" player="Tansey (pen.)" result="[1 - 1]" playerId="51130" eventid="3933452" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="8548" id="393346">
+        <localteam name="Wycombe" goals="3" id="9455" />
+        <visitorteam name="Southend" goals="1" id="9364" />
+        <events>
+          <event type="goal" minute="15" team="visitorteam" player="Grant" result="[0 - 1]" playerId="51106" eventid="3933461" />
+          <event type="goal" minute="20" team="localteam" player="Donnelly" result="[1 - 1]" playerId="51259" eventid="3933462" />
+          <event type="goal" minute="26" team="localteam" player="Strevens" result="[2 - 1]" playerId="50492" eventid="3933463" />
+          <event type="goal" minute="53" team="localteam" player="Rendell" result="[3 - 1]" playerId="51080" eventid="3933464" />
+        </events>
+        <ht score="[2-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8540" id="393323">
+        <localteam name="Accrington" goals="3" id="8987" />
+        <visitorteam name="Barnet" goals="1" id="9020" />
+        <events>
+          <event type="goal" minute="4" team="localteam" player="Ryan" result="[1 - 0]" playerId="53101" eventid="3933231" />
+          <event type="goal" minute="7" team="visitorteam" player="Marshall" result="[1 - 1]" playerId="55710" eventid="3933232" />
+          <event type="goal" minute="56" team="localteam" player="Ryan" result="[2 - 1]" playerId="53101" eventid="3933233" />
+          <event type="goal" minute="66" team="localteam" player="Ryan" result="[3 - 1]" playerId="53101" eventid="3933234" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8531" id="393324">
+        <localteam name="Aldershot" goals="2" id="8995" />
+        <visitorteam name="Rotherham" goals="2" id="9333" />
+        <events>
+          <event type="goal" minute="5" team="localteam" player="Charles" result="[1 - 0]" playerId="53118" eventid="3933241" />
+          <event type="goal" minute="11" team="localteam" player="Vincenti" result="[2 - 0]" playerId="36525" eventid="3933242" />
+          <event type="goal" minute="32" team="visitorteam" player="Le Fondre" result="[2 - 1]" playerId="50713" eventid="3933243" />
+          <event type="goal" minute="55" team="visitorteam" player="Le Fondre" result="[2 - 2]" playerId="50713" eventid="3933244" />
+        </events>
+        <ht score="[2-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8535" id="393325">
+        <localteam name="Bury" goals="1" id="9075" />
+        <visitorteam name="Wycombe" goals="3" id="9455" />
+        <events>
+          <event type="goal" minute="10" team="localteam" player="Lowe (pen.)" result="[1 - 0]" playerId="53412" eventid="3933251" />
+          <event type="goal" minute="20" team="visitorteam" player="Ainsworth" result="[1 - 1]" playerId="15578" eventid="3933252" />
+          <event type="goal" minute="63" team="visitorteam" player="Strevens" result="[1 - 2]" playerId="50492" eventid="3933253" />
+          <event type="goal" minute="88" team="visitorteam" player="Strevens" result="[1 - 3]" playerId="50492" eventid="3933254" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8529" id="393326">
+        <localteam name="Cheltenham" goals="0" id="9093" />
+        <visitorteam name="Shrewsbury" goals="1" id="9354" />
+        <events>
+          <event type="goal" minute="10" team="visitorteam" player="Wright" result="[0 - 1]" playerId="51020" eventid="3933261" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8538" id="393328">
+        <localteam name="Crewe" goals="2" id="9122" />
+        <visitorteam name="Stockport" goals="0" id="9376" />
+        <events>
+          <event type="goal" minute="62" team="localteam" player="Goodall (o.g.)" result="[1 - 0]" playerId="50472" eventid="3933281" />
+          <event type="goal" minute="65" team="localteam" player="Donaldson" result="[2 - 0]" playerId="13093" eventid="3933282" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8536" id="393327">
+        <localteam name="Gillingham" goals="2" id="9179" />
+        <visitorteam name="Macclesfield" goals="4" id="9254" />
+        <events>
+          <event type="goal" minute="3" team="visitorteam" player="Draper" result="[0 - 1]" playerId="83606" eventid="3933271" />
+          <event type="goal" minute="7" team="visitorteam" player="Daniel" result="[0 - 2]" playerId="50909" eventid="3933272" />
+          <event type="goal" minute="17" team="visitorteam" player="Daniel" result="[0 - 3]" playerId="50909" eventid="3933273" />
+          <event type="goal" minute="43" team="localteam" player="Jackman" result="[1 - 3]" playerId="51036" eventid="3933274" />
+          <event type="goal" minute="48" team="visitorteam" player="Sinclair" result="[1 - 4]" playerId="47515" eventid="3933275" />
+          <event type="goal" minute="71" team="localteam" player="Martin" result="[2 - 4]" playerId="46988" eventid="3933276" />
+        </events>
+        <ht score="[1-3]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8537" id="393329">
+        <localteam name="Hereford" goals="1" id="9210" />
+        <visitorteam name="Bradford" goals="1" id="9056" />
+        <events>
+          <event type="goal" minute="81" team="visitorteam" player="Speight (pen.)" result="[0 - 1]" playerId="36225" eventid="3933291" />
+          <event type="goal" minute="87" team="localteam" player="Fleetwood" result="[1 - 1]" playerId="36253" eventid="3933292" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8533" id="393330">
+        <localteam name="Northampton" goals="2" id="9293" />
+        <visitorteam name="Stevenage" goals="0" id="9374" />
+        <events>
+          <event type="goal" minute="3" team="localteam" player="Davis" result="[1 - 0]" playerId="15838" eventid="3933301" />
+          <event type="redcard" minute="38" team="visitorteam" player="Foster" result="" playerId="36261" eventid="3933302" />
+          <event type="goal" minute="59" team="localteam" player="Uwezu" result="[2 - 0]" playerId="111131" eventid="3933303" />
+          <event type="redcard" minute="84" team="visitorteam" player="Mousinho" result="" playerId="50783" eventid="3933304" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8530" id="393331">
+        <localteam name="Oxford Utd" goals="2" id="9306" />
+        <visitorteam name="Lincoln" goals="1" id="9247" />
+        <events>
+          <event type="goal" minute="5" team="visitorteam" player="Hughton" result="[0 - 1]" playerId="88250" eventid="3933311" />
+          <event type="goal" minute="61" team="localteam" player="Hall" result="[1 - 1]" playerId="53538" eventid="3933312" />
+          <event type="goal" minute="75" team="localteam" player="Craddock" result="[2 - 1]" playerId="5264" eventid="3933313" />
+          <event type="redcard" minute="80" team="visitorteam" player="Hone" result="" playerId="50603" eventid="3933314" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8534" id="393332">
+        <localteam name="Port Vale" goals="7" id="9313" />
+        <visitorteam name="Morecambe" goals="2" id="9280" />
+        <events>
+          <event type="goal" minute="17" team="localteam" player="Dodds" result="[1 - 0]" playerId="50694" eventid="3933321" />
+          <event type="goal" minute="21" team="localteam" player="Richards M." result="[2 - 0]" playerId="50690" eventid="3933322" />
+          <event type="goal" minute="32" team="visitorteam" player="Jevons" result="[2 - 1]" playerId="15932" eventid="3933323" />
+          <event type="goal" minute="40" team="localteam" player="Richards J." result="[3 - 1]" playerId="36153" eventid="3933324" />
+          <event type="goal" minute="45" team="localteam" player="Richards J." result="[4 - 1]" playerId="36153" eventid="3933325" />
+          <event type="goal" minute="58" team="localteam" player="Dodds" result="[5 - 1]" playerId="50694" eventid="3933326" />
+          <event type="goal" minute="67" team="localteam" player="Dodds" result="[6 - 1]" playerId="50694" eventid="3933327" />
+          <event type="goal" minute="79" team="visitorteam" player="Spencer" result="[6 - 2]" playerId="50705" eventid="3933328" />
+          <event type="goal" minute="90" team="localteam" player="Richards J." result="[7 - 2]" playerId="36153" eventid="3933329" />
+        </events>
+        <ht score="[4-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="8539" id="393333">
+        <localteam name="Southend" goals="1" id="9364" />
+        <visitorteam name="Burton" goals="1" id="9074" />
+        <events>
+          <event type="goal" minute="3" team="localteam" player="Corr" result="[1 - 0]" playerId="51145" eventid="3933331" />
+          <event type="goal" minute="28" team="visitorteam" player="Malone" result="[1 - 1]" playerId="77702" eventid="3933332" />
+          <event type="redcard" minute="85" team="visitorteam" player="Maghoma" result="" playerId="88247" eventid="3933333" />
+          <event type="redcard" minute="90" team="localteam" player="Sawyer" result="" playerId="56568" eventid="3933334" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: Blue Square Premier - Play Offs" id="1203" file_group="england">
+    <matches date="May 11" formatted_date="11.05.2011">
+      <match status="18:45" date="May 11" formatted_date="11.05.2011" time="18:45" fix_id="627060" id="628435">
+        <localteam name="Wimbledon" goals="?" id="8994" />
+        <visitorteam name="Fleetwood" goals="?" id="9168" />
+        <events />
+        <ht score="" />
+      </match>
+      <match status="FT" date="May 10" formatted_date="10.05.2011" time="18:45" fix_id="627058" id="628434">
+        <localteam name="Luton" goals="2" id="9253" />
+        <visitorteam name="Wrexham" goals="1" id="9453" />
+        <events>
+          <event type="goal" minute="8" team="visitorteam" player="Mangan" result="[0 - 1]" playerId="64470" eventid="6284341" />
+          <event type="goal" minute="29" team="localteam" player="Kroca" result="[1 - 1]" playerId="14757" eventid="6284342" />
+          <event type="goal" minute="81" team="localteam" player="Walker" result="[2 - 1]" playerId="35891" eventid="6284343" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="May 06" formatted_date="06.05.2011" time="18:45" fix_id="627059" id="628433">
+        <localteam name="Fleetwood" goals="0" id="9168" />
+        <visitorteam name="Wimbledon" goals="2" id="8994" />
+        <events>
+          <event type="goal" minute="39" team="visitorteam" player="Moore" result="[0 - 1]" playerId="36037" eventid="6284331" />
+          <event type="goal" minute="49" team="visitorteam" player="Mohamed" result="[0 - 2]" playerId="59736" eventid="6284332" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="May 05" formatted_date="05.05.2011" time="18:45" fix_id="627057" id="628432">
+        <localteam name="Wrexham" goals="0" id="9453" />
+        <visitorteam name="Luton" goals="3" id="9253" />
+        <events>
+          <event type="goal" minute="16" team="visitorteam" player="Lawless" result="[0 - 1]" playerId="36238" eventid="6284321" />
+          <event type="goal" minute="28" team="visitorteam" player="Gnakpa" result="[0 - 2]" playerId="53534" eventid="6284322" />
+          <event type="goal" minute="35" team="visitorteam" player="Asafu-Adjaye" result="[0 - 3]" playerId="50622" eventid="6284323" />
+        </events>
+        <ht score="[0-3]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: Blue Square Premier" id="1203" file_group="england">
+    <matches date="Apr 30" formatted_date="30.04.2011">
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9094" id="399996">
+        <localteam name="Altrincham" goals="3" id="8999" />
+        <visitorteam name="Eastbourne" goals="4" id="9146" />
+        <events>
+          <event type="goal" minute="17" team="visitorteam" player="Taylor" result="[0 - 1]" playerId="36073" eventid="3999961" />
+          <event type="goal" minute="21" team="visitorteam" player="Taylor" result="[0 - 2]" playerId="36073" eventid="3999962" />
+          <event type="goal" minute="44" team="visitorteam" player="Brinkhurst" result="[0 - 3]" playerId="89476" eventid="3999963" />
+          <event type="goal" minute="60" team="localteam" player="Beesley" result="[1 - 3]" playerId="35945" eventid="3999964" />
+          <event type="goal" minute="76" team="localteam" player="Clee" result="[2 - 3]" playerId="34559" eventid="3999965" />
+          <event type="goal" minute="82" team="localteam" player="Beesley" result="[3 - 3]" playerId="35945" eventid="3999966" />
+          <event type="goal" minute="90" team="visitorteam" player="Purcell" result="[3 - 4]" playerId="36031" eventid="3999967" />
+        </events>
+        <ht score="[0-3]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9095" id="399995">
+        <localteam name="Barrow" goals="2" id="9022" />
+        <visitorteam name="Hayes &amp; Yeading" goals="0" id="9205" />
+        <events>
+          <event type="goal" minute="52" team="localteam" player="Baker" result="[1 - 0]" playerId="50432" eventid="3999951" />
+          <event type="goal" minute="61" team="localteam" player="Baker" result="[2 - 0]" playerId="50432" eventid="3999952" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9096" id="399998">
+        <localteam name="Bath City" goals="2" id="9027" />
+        <visitorteam name="Mansfield" goals="0" id="9262" />
+        <events>
+          <event type="redcard" minute="15" team="visitorteam" player="Istead" result="" playerId="45891" eventid="3999981" />
+          <event type="goal" minute="52" team="localteam" player="Watkins" result="[1 - 0]" playerId="53405" eventid="3999982" />
+          <event type="goal" minute="75" team="localteam" player="Murray" result="[2 - 0]" playerId="15926" eventid="3999983" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9097" id="399997">
+        <localteam name="Cambridge Utd" goals="0" id="9080" />
+        <visitorteam name="Fleetwood" goals="1" id="9168" />
+        <events>
+          <event type="goal" minute="77" team="visitorteam" player="Harvey" result="[0 - 1]" playerId="55341" eventid="3999971" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9098" id="399999">
+        <localteam name="Crawley" goals="1" id="9120" />
+        <visitorteam name="York" goals="1" id="9460" />
+        <events>
+          <event type="goal" minute="5" team="visitorteam" player="Hunt (o.g.)" result="[0 - 1]" playerId="2621" eventid="3999991" />
+          <event type="goal" minute="68" team="localteam" player="Tubbs (pen.)" result="[1 - 1]" playerId="36292" eventid="3999992" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9099" id="400001">
+        <localteam name="Darlington" goals="2" id="9130" />
+        <visitorteam name="Rushden" goals="0" id="9339" />
+        <events>
+          <event type="goal" minute="64" team="localteam" player="Wright" result="[1 - 0]" playerId="49512" eventid="4000011" />
+          <event type="goal" minute="86" team="localteam" player="Campbell" result="[2 - 0]" playerId="176" eventid="4000012" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9100" id="400000">
+        <localteam name="Gateshead" goals="1" id="9178" />
+        <visitorteam name="Newport" goals="7" id="9288" />
+        <events>
+          <event type="goal" minute="24" team="localteam" player="Mulligan" result="[1 - 0]" playerId="50553" eventid="4000001" />
+          <event type="redcard" minute="34" team="localteam" player="Deasy" result="" playerId="35875" eventid="4000002" />
+          <event type="goal" minute="35" team="visitorteam" player="Collins (pen.)" result="[1 - 1]" playerId="69566" eventid="4000003" />
+          <event type="goal" minute="45" team="visitorteam" player="Collins" result="[1 - 2]" playerId="69566" eventid="4000004" />
+          <event type="goal" minute="61" team="visitorteam" player="Todd" result="[1 - 3]" playerId="36347" eventid="4000005" />
+          <event type="goal" minute="72" team="visitorteam" player="Miller" result="[1 - 4]" playerId="112407" eventid="4000006" />
+          <event type="goal" minute="73" team="visitorteam" player="Rose" result="[1 - 5]" playerId="36275" eventid="4000007" />
+          <event type="goal" minute="87" team="visitorteam" player="Baker" result="[1 - 6]" playerId="69101" eventid="4000008" />
+          <event type="goal" minute="88" team="visitorteam" player="Griffin" result="[1 - 7]" playerId="34169" eventid="4000009" />
+        </events>
+        <ht score="[1-2]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9101" id="400002">
+        <localteam name="Kettering" goals="3" id="9229" />
+        <visitorteam name="Southport" goals="1" id="9365" />
+        <events>
+          <event type="goal" minute="25" team="localteam" player="Cunnington" result="[1 - 0]" playerId="" eventid="4000021" />
+          <event type="goal" minute="63" team="visitorteam" player="Whalley" result="[1 - 1]" playerId="51404" eventid="4000022" />
+          <event type="goal" minute="87" team="localteam" player="O Neil" result="[2 - 1]" playerId="56559" eventid="4000023" />
+          <event type="goal" minute="90" team="localteam" player="Challinor" result="[3 - 1]" playerId="36310" eventid="4000024" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9102" id="400005">
+        <localteam name="Kidderminster" goals="2" id="9230" />
+        <visitorteam name="Histon" goals="2" id="9214" />
+        <events>
+          <event type="goal" minute="40" team="visitorteam" player="Riza" result="[0 - 1]" playerId="4825" eventid="4000051" />
+          <event type="goal" minute="77" team="visitorteam" player="Murray" result="[0 - 2]" playerId="888" eventid="4000052" />
+          <event type="goal" minute="80" team="localteam" player="Blair" result="[1 - 2]" playerId="113015" eventid="4000053" />
+          <event type="goal" minute="81" team="localteam" player="Briggs" result="[2 - 2]" playerId="36194" eventid="4000054" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9103" id="400004">
+        <localteam name="Luton" goals="1" id="9253" />
+        <visitorteam name="Wrexham" goals="1" id="9453" />
+        <events>
+          <event type="goal" minute="12" team="visitorteam" player="Moss" result="[0 - 1]" playerId="17634" eventid="4000041" />
+          <event type="goal" minute="88" team="localteam" player="Walker (pen.)" result="[1 - 1]" playerId="35891" eventid="4000042" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9104" id="400003">
+        <localteam name="Tamworth" goals="2" id="9390" />
+        <visitorteam name="Forest Green" goals="1" id="9171" />
+        <events>
+          <event type="goal" minute="3" team="localteam" player="Smith" result="[1 - 0]" playerId="34670" eventid="4000031" />
+          <event type="goal" minute="52" team="visitorteam" player="Somner" result="[1 - 1]" playerId="60227" eventid="4000032" />
+          <event type="goal" minute="77" team="localteam" player="Sheridan" result="[2 - 1]" playerId="34675" eventid="4000033" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="16:15" fix_id="9093" id="399994">
+        <localteam name="Wimbledon" goals="2" id="8994" />
+        <visitorteam name="Grimsby" goals="1" id="9191" />
+        <events>
+          <event type="goal" minute="7" team="localteam" player="Moore" result="[1 - 0]" playerId="36037" eventid="3999941" />
+          <event type="goal" minute="39" team="visitorteam" player="Connell" result="[1 - 1]" playerId="50416" eventid="3999942" />
+          <event type="goal" minute="51" team="localteam" player="Johnson" result="[2 - 1]" playerId="53404" eventid="3999943" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9081" id="399982">
+        <localteam name="Eastbourne" goals="2" id="9146" />
+        <visitorteam name="Bath City" goals="0" id="9027" />
+        <events>
+          <event type="goal" minute="46" team="localteam" player="Pacquette" result="[1 - 0]" playerId="34130" eventid="3999821" />
+          <event type="goal" minute="83" team="localteam" player="Taylor" result="[2 - 0]" playerId="36073" eventid="3999822" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9082" id="399984">
+        <localteam name="Fleetwood" goals="1" id="9168" />
+        <visitorteam name="Barrow" goals="0" id="9022" />
+        <events>
+          <event type="goal" minute="45" team="localteam" player="Vieira" result="[1 - 0]" playerId="50785" eventid="3999841" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9083" id="399983">
+        <localteam name="Forest Green" goals="0" id="9171" />
+        <visitorteam name="Wimbledon" goals="0" id="8994" />
+        <events>
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9084" id="399986">
+        <localteam name="Grimsby" goals="0" id="9191" />
+        <visitorteam name="Altrincham" goals="1" id="8999" />
+        <events>
+          <event type="goal" minute="52" team="visitorteam" player="Joseph" result="[0 - 1]" playerId="15949" eventid="3999861" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9086" id="399988">
+        <localteam name="Histon" goals="0" id="9214" />
+        <visitorteam name="Luton" goals="4" id="9253" />
+        <events>
+          <event type="goal" minute="12" team="visitorteam" player="Morgan-Smith" result="[0 - 1]" playerId="88709" eventid="3999881" />
+          <event type="goal" minute="34" team="visitorteam" player="Barnes-Homer" result="[0 - 2]" playerId="76917" eventid="3999882" />
+          <event type="goal" minute="47" team="visitorteam" player="Gnakpa" result="[0 - 3]" playerId="53534" eventid="3999883" />
+          <event type="goal" minute="90" team="visitorteam" player="Barnes-Homer" result="[0 - 4]" playerId="76917" eventid="3999884" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9087" id="399987">
+        <localteam name="Mansfield" goals="3" id="9262" />
+        <visitorteam name="Gateshead" goals="2" id="9178" />
+        <events>
+          <event type="goal" minute="19" team="visitorteam" player="Mulligan" result="[0 - 1]" playerId="50553" eventid="3999871" />
+          <event type="goal" minute="40" team="visitorteam" player="Mulligan" result="[0 - 2]" playerId="50553" eventid="3999872" />
+          <event type="goal" minute="75" team="localteam" player="Murray" result="[1 - 2]" playerId="36265" eventid="3999873" />
+          <event type="goal" minute="89" team="localteam" player="Murray" result="[2 - 2]" playerId="36265" eventid="3999874" />
+          <event type="goal" minute="90" team="localteam" player="Briscoe" result="[3 - 2]" playerId="76789" eventid="3999875" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9088" id="399990">
+        <localteam name="Newport" goals="0" id="9288" />
+        <visitorteam name="Crawley" goals="1" id="9120" />
+        <events>
+          <event type="goal" minute="68" team="visitorteam" player="Howell" result="[0 - 1]" playerId="36329" eventid="3999901" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9089" id="399989">
+        <localteam name="Rushden" goals="2" id="9339" />
+        <visitorteam name="Kidderminster" goals="1" id="9230" />
+        <events>
+          <event type="goal" minute="49" team="localteam" player="O Connor (pen.)" result="[1 - 0]" playerId="36070" eventid="3999891" />
+          <event type="goal" minute="85" team="visitorteam" player="Mcphee" result="[1 - 1]" playerId="36044" eventid="3999892" />
+          <event type="redcard" minute="90" team="visitorteam" player="Byrne" result="" playerId="75976" eventid="3999893" />
+          <event type="goal" minute="90" team="localteam" player="Charles" result="[2 - 1]" playerId="50619" eventid="3999894" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9090" id="399992">
+        <localteam name="Southport" goals="1" id="9365" />
+        <visitorteam name="Darlington" goals="1" id="9130" />
+        <events>
+          <event type="goal" minute="13" team="localteam" player="Kissock" result="[1 - 0]" playerId="31455" eventid="3999921" />
+          <event type="goal" minute="72" team="visitorteam" player="Aman" result="[1 - 1]" playerId="149062" eventid="3999922" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9091" id="399991">
+        <localteam name="Wrexham" goals="4" id="9453" />
+        <visitorteam name="Tamworth" goals="2" id="9390" />
+        <events>
+          <event type="goal" minute="10" team="localteam" player="Obeng" result="[1 - 0]" playerId="89362" eventid="3999911" />
+          <event type="goal" minute="53" team="localteam" player="Knight-Percival" result="[2 - 0]" playerId="36102" eventid="3999912" />
+          <event type="goal" minute="57" team="visitorteam" player="Barrow" result="[2 - 1]" playerId="55319" eventid="3999913" />
+          <event type="redcard" minute="62" team="visitorteam" player="Mitchell" result="" playerId="47536" eventid="3999914" />
+          <event type="goal" minute="68" team="localteam" player="Mangan" result="[3 - 1]" playerId="64470" eventid="3999915" />
+          <event type="goal" minute="79" team="localteam" player="Taylor" result="[4 - 1]" playerId="47498" eventid="3999916" />
+          <event type="goal" minute="81" team="visitorteam" player="Perry" result="[4 - 2]" playerId="50696" eventid="3999917" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="9092" id="399993">
+        <localteam name="York" goals="0" id="9460" />
+        <visitorteam name="Cambridge Utd" goals="0" id="9080" />
+        <events>
+        </events>
+        <ht score="[0-0]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: Blue Square North - Play Offs" id="1202" file_group="england">
+    <matches date="May 08" formatted_date="08.05.2011">
+      <match status="Pen." date="May 08" formatted_date="08.05.2011" time="14:00" fix_id="682452" id="628446">
+        <localteam name="Boston Utd." goals="2" id="9052" />
+        <visitorteam name="Guiseley" goals="1" id="9192" />
+        <events>
+          <event type="goal" minute="10" team="localteam" player="Pearson" result="[1 - 0]" playerId="34660" eventid="6284461" />
+          <event type="goal" minute="60" team="visitorteam" player="Rothery" result="[1 - 1]" playerId="77055" eventid="6284462" />
+          <event type="goal" minute="79" team="localteam" player="Church" result="[2 - 1]" playerId="46497" eventid="6284463" />
+          <event type="goal" minute="108" team="visitorteam" player="Stamp" result="[2 - 2]" playerId="53441" eventid="6284464" />
+          <event type="goal" minute="113" team="localteam" player="Davidson" result="[3 - 2]" playerId="34630" eventid="6284465" />
+        </events>
+        <ht score="[1-0]" />
+        <penalty localteam="2" visitorteam="3" />
+      </match>
+      <match status="FT" date="May 08" formatted_date="08.05.2011" time="12:00" fix_id="685735" id="628447">
+        <localteam name="Telford" goals="2" id="8992" />
+        <visitorteam name="Nuneaton" goals="1" id="9299" />
+        <events>
+          <event type="goal" minute="16" team="localteam" player="Adams" result="[1 - 0]" playerId="34315" eventid="6284471" />
+          <event type="goal" minute="45" team="localteam" player="Newton (pen.)" result="[2 - 0]" playerId="50451" eventid="6284472" />
+          <event type="goal" minute="56" team="visitorteam" player="Spencer" result="[2 - 1]" playerId="50705" eventid="6284473" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="May 03" formatted_date="03.05.2011" time="18:45" fix_id="682451" id="628445">
+        <localteam name="Guiseley" goals="1" id="9192" />
+        <visitorteam name="Boston Utd." goals="0" id="9052" />
+        <events>
+          <event type="goal" minute="75" team="localteam" player="Peyton" result="[1 - 0]" playerId="35851" eventid="6284451" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 03" formatted_date="03.05.2011" time="18:45" fix_id="685731" id="628444">
+        <localteam name="Nuneaton" goals="1" id="9299" />
+        <visitorteam name="Telford" goals="1" id="8992" />
+        <events>
+          <event type="goal" minute="74" team="localteam" player="Storer" result="[1 - 0]" playerId="34540" eventid="6284441" />
+          <event type="goal" minute="90" team="visitorteam" player="Trainer" result="[1 - 1]" playerId="36262" eventid="6284442" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: Blue Square South - Play Offs" id="1202" file_group="england">
+    <matches date="May 08" formatted_date="08.05.2011">
+      <match status="FT" date="May 08" formatted_date="08.05.2011" time="14:00" fix_id="682456" id="628452">
+        <localteam name="Ebbsfleet" goals="2" id="9150" />
+        <visitorteam name="Chelmsford" goals="1" id="9091" />
+        <events>
+          <event type="goal" minute="27" team="localteam" player="West" result="[1 - 0]" playerId="88759" eventid="6284521" />
+          <event type="goal" minute="34" team="localteam" player="West" result="[2 - 0]" playerId="88759" eventid="6284522" />
+          <event type="goal" minute="63" team="visitorteam" player="Gray" result="[2 - 1]" playerId="50992" eventid="6284523" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="AET" date="May 08" formatted_date="08.05.2011" time="14:00" fix_id="682458" id="628451">
+        <localteam name="Farnborough" goals="1" id="9162" />
+        <visitorteam name="Woking" goals="1" id="9445" />
+        <events>
+          <event type="goal" minute="44" team="visitorteam" player="Hammond" result="[0 - 1]" playerId="15713" eventid="6284511" />
+          <event type="goal" minute="111" team="localteam" player="Mcdonald" result="[1 - 1]" playerId="13029" eventid="6284512" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="May 04" formatted_date="04.05.2011" time="18:45" fix_id="696169" id="628450">
+        <localteam name="Woking" goals="0" id="9445" />
+        <visitorteam name="Farnborough" goals="1" id="9162" />
+        <events>
+          <event type="goal" minute="70" team="visitorteam" player="Holloway" result="[0 - 1]" playerId="34135" eventid="6284501" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="May 03" formatted_date="03.05.2011" time="18:45" fix_id="682455" id="628448">
+        <localteam name="Chelmsford" goals="1" id="9091" />
+        <visitorteam name="Ebbsfleet" goals="4" id="9150" />
+        <events>
+          <event type="goal" minute="21" team="visitorteam" player="West" result="[0 - 1]" playerId="88759" eventid="6284481" />
+          <event type="goal" minute="25" team="visitorteam" player="West" result="[0 - 2]" playerId="88759" eventid="6284482" />
+          <event type="goal" minute="45" team="localteam" player="Modeste" result="[1 - 2]" playerId="105708" eventid="6284483" />
+          <event type="goal" minute="77" team="visitorteam" player="Shakes" result="[1 - 3]" playerId="65957" eventid="6284484" />
+          <event type="goal" minute="88" team="visitorteam" player="Shakes" result="[1 - 4]" playerId="65957" eventid="6284485" />
+        </events>
+        <ht score="[1-2]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: Blue Square North" id="1202" file_group="england">
+    <matches date="Apr 30" formatted_date="30.04.2011">
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="590898" id="618356">
+        <localteam name="Alfreton" goals="3" id="8996" />
+        <visitorteam name="Nuneaton" goals="2" id="9299" />
+        <events>
+          <event type="goal" minute="8" team="localteam" player="Flint" result="[1 - 0]" playerId="92978" eventid="6183561" />
+          <event type="goal" minute="18" team="visitorteam" player="Burns" result="[1 - 1]" playerId="28162" eventid="6183562" />
+          <event type="goal" minute="50" team="visitorteam" player="Christie" result="[1 - 2]" playerId="46263" eventid="6183563" />
+          <event type="goal" minute="52" team="localteam" player="Hearn" result="[2 - 2]" playerId="65418" eventid="6183564" />
+          <event type="goal" minute="69" team="localteam" player="Hearn (pen.)" result="[3 - 2]" playerId="65418" eventid="6183565" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="234903" id="618358">
+        <localteam name="Boston Utd." goals="2" id="9052" />
+        <visitorteam name="Vauxhall" goals="0" id="9412" />
+        <events>
+          <event type="goal" minute="4" team="localteam" player="Stones" result="[1 - 0]" playerId="35286" eventid="6183581" />
+          <event type="goal" minute="40" team="localteam" player="Church" result="[2 - 0]" playerId="46497" eventid="6183582" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="234904" id="618359">
+        <localteam name="Corby" goals="1" id="9113" />
+        <visitorteam name="Hyde Utd." goals="2" id="9223" />
+        <events>
+          <event type="goal" minute="42" team="localteam" player="Lees (o.g.)" result="[1 - 0]" playerId="94185" eventid="6183591" />
+          <event type="goal" minute="44" team="visitorteam" player="Halford" result="[1 - 1]" playerId="34411" eventid="6183592" />
+          <event type="goal" minute="54" team="visitorteam" player="Mcniven" result="[1 - 2]" playerId="34443" eventid="6183593" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="234905" id="618360">
+        <localteam name="Droylsden" goals="2" id="9140" />
+        <visitorteam name="Gloucester" goals="4" id="9182" />
+        <events>
+          <event type="goal" minute="5" team="localteam" player="Kilheeney" result="[1 - 0]" playerId="34398" eventid="6183601" />
+          <event type="goal" minute="18" team="visitorteam" player="Morford" result="[1 - 1]" playerId="93825" eventid="6183602" />
+          <event type="goal" minute="20" team="localteam" player="Rouse" result="[2 - 1]" playerId="50441" eventid="6183603" />
+          <event type="goal" minute="33" team="visitorteam" player="Mullins" result="[2 - 2]" playerId="36180" eventid="6183604" />
+          <event type="goal" minute="40" team="visitorteam" player="Morford" result="[2 - 3]" playerId="93825" eventid="6183605" />
+          <event type="goal" minute="44" team="visitorteam" player="Edwards" result="[2 - 4]" playerId="33981" eventid="6183606" />
+        </events>
+        <ht score="[2-4]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="234906" id="618362">
+        <localteam name="Guiseley" goals="2" id="9192" />
+        <visitorteam name="Eastwood" goals="2" id="9149" />
+        <events>
+          <event type="goal" minute="4" team="visitorteam" player="Todd" result="[0 - 1]" playerId="69143" eventid="6183621" />
+          <event type="goal" minute="25" team="localteam" player="Baldry" result="[1 - 1]" playerId="" eventid="6183622" />
+          <event type="goal" minute="45" team="localteam" player="Walshaw" result="[2 - 1]" playerId="53461" eventid="6183623" />
+          <event type="goal" minute="67" team="visitorteam" player="Hawes" result="[2 - 2]" playerId="76753" eventid="6183624" />
+        </events>
+        <ht score="[2-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="590899" id="618361">
+        <localteam name="Solihull" goals="0" id="9360" />
+        <visitorteam name="Gainsborough" goals="2" id="9176" />
+        <events>
+          <event type="goal" minute="50" team="visitorteam" player="Mcmahon" result="[0 - 1]" playerId="57736" eventid="6183611" />
+          <event type="goal" minute="90" team="visitorteam" player="Williams" result="[0 - 2]" playerId="51962" eventid="6183612" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="234908" id="618363">
+        <localteam name="Stalybridge" goals="3" id="9371" />
+        <visitorteam name="Stafford" goals="2" id="9369" />
+        <events>
+          <event type="goal" minute="13" team="localteam" player="Jennings" result="[1 - 0]" playerId="74459" eventid="6183631" />
+          <event type="goal" minute="58" team="localteam" player="Gnahoua" result="[2 - 0]" playerId="" eventid="6183632" />
+          <event type="goal" minute="65" team="visitorteam" player="Francis" result="[2 - 1]" playerId="93307" eventid="6183633" />
+          <event type="goal" minute="75" team="localteam" player="Bemboleta" result="[3 - 1]" playerId="" eventid="6183634" />
+          <event type="goal" minute="76" team="visitorteam" player="Adaggio" result="[3 - 2]" playerId="53036" eventid="6183635" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="590900" id="618357">
+        <localteam name="Telford" goals="3" id="8992" />
+        <visitorteam name="Harrogate" goals="0" id="9199" />
+        <events>
+          <event type="goal" minute="30" team="localteam" player="Rodgers" result="[1 - 0]" playerId="34329" eventid="6183571" />
+          <event type="goal" minute="47" team="localteam" player="Meechan" result="[2 - 0]" playerId="34658" eventid="6183572" />
+          <event type="goal" minute="54" team="localteam" player="Trainer" result="[3 - 0]" playerId="36262" eventid="6183573" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="234909" id="618364">
+        <localteam name="Worcester" goals="1" id="9449" />
+        <visitorteam name="Blyth" goals="0" id="9046" />
+        <events>
+          <event type="goal" minute="7" team="localteam" player="Evans" result="[1 - 0]" playerId="15941" eventid="6183641" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="234910" id="618365">
+        <localteam name="Workington" goals="3" id="9450" />
+        <visitorteam name="Hinckley Utd." goals="1" id="9213" />
+        <events>
+          <event type="goal" minute="9" team="localteam" player="Blake" result="[1 - 0]" playerId="85831" eventid="6183651" />
+          <event type="goal" minute="74" team="localteam" player="Vipond" result="[2 - 0]" playerId="50867" eventid="6183652" />
+          <event type="goal" minute="83" team="localteam" player="Arnison" result="[3 - 0]" playerId="61249" eventid="6183653" />
+          <event type="goal" minute="86" team="visitorteam" player="Gray" result="[3 - 1]" playerId="83681" eventid="6183654" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="234891" id="612880">
+        <localteam name="Blyth" goals="0" id="9046" />
+        <visitorteam name="Guiseley" goals="0" id="9192" />
+        <events>
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="465122" id="612879">
+        <localteam name="Eastwood" goals="2" id="9149" />
+        <visitorteam name="Solihull" goals="1" id="9360" />
+        <events>
+          <event type="goal" minute="10" team="visitorteam" player="Johnson" result="[0 - 1]" playerId="2641" eventid="6128791" />
+          <event type="goal" minute="25" team="localteam" player="Meikle" result="[1 - 1]" playerId="68088" eventid="6128792" />
+          <event type="goal" minute="40" team="localteam" player="Stevenson" result="[2 - 1]" playerId="46509" eventid="6128793" />
+        </events>
+        <ht score="[2-1]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="234893" id="612881">
+        <localteam name="Gainsborough" goals="0" id="9176" />
+        <visitorteam name="Alfreton" goals="3" id="8996" />
+        <events>
+          <event type="goal" minute="25" team="visitorteam" player="Wilson" result="[0 - 1]" playerId="34347" eventid="6128811" />
+          <event type="goal" minute="45" team="visitorteam" player="Wilson" result="[0 - 2]" playerId="34347" eventid="6128812" />
+          <event type="goal" minute="65" team="visitorteam" player="Moult" result="[0 - 3]" playerId="36157" eventid="6128813" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="234894" id="612883">
+        <localteam name="Gloucester" goals="2" id="9182" />
+        <visitorteam name="Telford" goals="2" id="8992" />
+        <events>
+          <event type="goal" minute="21" team="visitorteam" player="Coupe (o.g.)" result="[0 - 1]" playerId="69300" eventid="6128831" />
+          <event type="goal" minute="64" team="visitorteam" player="Newton" result="[0 - 2]" playerId="50451" eventid="6128832" />
+          <event type="goal" minute="68" team="localteam" player="Mann" result="[1 - 2]" playerId="38378" eventid="6128833" />
+          <event type="goal" minute="75" team="localteam" player="Morford" result="[2 - 2]" playerId="93825" eventid="6128834" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="465123" id="612882">
+        <localteam name="Harrogate" goals="2" id="9199" />
+        <visitorteam name="Workington" goals="0" id="9450" />
+        <events>
+          <event type="goal" minute="52" team="localteam" player="Marshall" result="[1 - 0]" playerId="781" eventid="6128821" />
+          <event type="goal" minute="76" team="localteam" player="Armstrong" result="[2 - 0]" playerId="2595" eventid="6128822" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="234896" id="612884">
+        <localteam name="Hinckley Utd." goals="3" id="9213" />
+        <visitorteam name="Worcester" goals="1" id="9449" />
+        <events>
+          <event type="goal" minute="10" team="visitorteam" player="Richman" result="[0 - 1]" playerId="50699" eventid="6128841" />
+          <event type="goal" minute="53" team="localteam" player="Kerry" result="[1 - 1]" playerId="50476" eventid="6128842" />
+          <event type="goal" minute="75" team="localteam" player="Ricketts" result="[2 - 1]" playerId="34552" eventid="6128843" />
+          <event type="goal" minute="78" team="localteam" player="Ricketts" result="[3 - 1]" playerId="34552" eventid="6128844" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="234897" id="612886">
+        <localteam name="Hyde Utd." goals="1" id="9223" />
+        <visitorteam name="Droylsden" goals="1" id="9140" />
+        <events>
+          <event type="goal" minute="16" team="visitorteam" player="Holden" result="[0 - 1]" playerId="72374" eventid="6128861" />
+          <event type="goal" minute="43" team="localteam" player="Barlow" result="[1 - 1]" playerId="34650" eventid="6128862" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="234899" id="612885">
+        <localteam name="Redditch" goals="2" id="9326" />
+        <visitorteam name="Corby" goals="2" id="9113" />
+        <events>
+          <event type="goal" minute="22" team="localteam" player="Mckenzie" result="[1 - 0]" playerId="1020" eventid="6128851" />
+          <event type="goal" minute="28" team="visitorteam" player="Malone" result="[1 - 1]" playerId="13062" eventid="6128852" />
+          <event type="goal" minute="65" team="localteam" player="Mckenzie" result="[2 - 1]" playerId="1020" eventid="6128853" />
+          <event type="goal" minute="79" team="visitorteam" player="Johnson" result="[2 - 2]" playerId="2641" eventid="6128854" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="234900" id="612887">
+        <localteam name="Vauxhall" goals="0" id="9412" />
+        <visitorteam name="Stalybridge" goals="3" id="9371" />
+        <events>
+          <event type="goal" minute="51" team="visitorteam" player="Meynell" result="[0 - 1]" playerId="24797" eventid="6128871" />
+          <event type="goal" minute="63" team="visitorteam" player="Jennings" result="[0 - 2]" playerId="74459" eventid="6128872" />
+          <event type="goal" minute="81" team="visitorteam" player="Jennings" result="[0 - 3]" playerId="74459" eventid="6128873" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="12:00" fix_id="465121" id="612878">
+        <localteam name="Nuneaton" goals="1" id="9299" />
+        <visitorteam name="Boston Utd." goals="1" id="9052" />
+        <events>
+          <event type="goal" minute="7" team="localteam" player="Hadland" result="[1 - 0]" playerId="103692" eventid="6128781" />
+          <event type="goal" minute="61" team="visitorteam" player="Canoville" result="[1 - 1]" playerId="" eventid="6128782" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: Blue Square South" id="1202" file_group="england">
+    <matches date="Apr 30" formatted_date="30.04.2011">
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="235295" id="618366">
+        <localteam name="Bishop Stortford" goals="2" id="9042" />
+        <visitorteam name="Dorchester" goals="1" id="9136" />
+        <events>
+          <event type="goal" minute="2" team="localteam" player="Bakare" result="[1 - 0]" playerId="" eventid="6183661" />
+          <event type="goal" minute="75" team="localteam" player="Rance" result="[2 - 0]" playerId="161454" eventid="6183662" />
+          <event type="goal" minute="81" team="visitorteam" player="Flood" result="[2 - 1]" playerId="87970" eventid="6183663" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="235296" id="618367">
+        <localteam name="Boreham Wood" goals="3" id="9050" />
+        <visitorteam name="Lewes" goals="0" id="9244" />
+        <events>
+          <event type="goal" minute="45" team="localteam" player="Rishbridger" result="[1 - 0]" playerId="" eventid="6183671" />
+          <event type="goal" minute="68" team="localteam" player="Wilkinson" result="[2 - 0]" playerId="111411" eventid="6183672" />
+          <event type="goal" minute="71" team="localteam" player="Garrard" result="[3 - 0]" playerId="33948" eventid="6183673" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="235297" id="618369">
+        <localteam name="Bromley" goals="0" id="9068" />
+        <visitorteam name="Eastleigh" goals="2" id="9148" />
+        <events>
+          <event type="goal" minute="39" team="visitorteam" player="Adeniyi" result="[0 - 1]" playerId="34034" eventid="6183691" />
+          <event type="goal" minute="42" team="visitorteam" player="Riviere" result="[0 - 2]" playerId="34031" eventid="6183692" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="239395" id="618368">
+        <localteam name="Chelmsford" goals="3" id="9091" />
+        <visitorteam name="Hampton" goals="1" id="9195" />
+        <events>
+          <event type="goal" minute="29" team="localteam" player="Gray" result="[1 - 0]" playerId="50992" eventid="6183681" />
+          <event type="goal" minute="51" team="localteam" player="Gray (pen.)" result="[2 - 0]" playerId="50992" eventid="6183682" />
+          <event type="goal" minute="59" team="visitorteam" player="Witham" result="[2 - 1]" playerId="" eventid="6183683" />
+          <event type="goal" minute="88" team="localteam" player="Martin" result="[3 - 1]" playerId="36519" eventid="6183684" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="590901" id="618370">
+        <localteam name="Dover" goals="4" id="9000" />
+        <visitorteam name="St. Albans" goals="1" id="6263" />
+        <events>
+          <event type="goal" minute="21" team="localteam" player="Ashton" result="[1 - 0]" playerId="36059" eventid="6183701" />
+          <event type="goal" minute="22" team="localteam" player="Birchall" result="[2 - 0]" playerId="644" eventid="6183702" />
+          <event type="goal" minute="40" team="localteam" player="Simmonds" result="[3 - 0]" playerId="21158" eventid="6183703" />
+          <event type="goal" minute="52" team="visitorteam" player="Smith" result="[3 - 1]" playerId="900" eventid="6183704" />
+          <event type="goal" minute="64" team="localteam" player="Birchall" result="[4 - 1]" playerId="644" eventid="6183705" />
+        </events>
+        <ht score="[3-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="235299" id="618372">
+        <localteam name="Ebbsfleet" goals="1" id="9150" />
+        <visitorteam name="Woking" goals="1" id="9445" />
+        <events>
+          <event type="goal" minute="13" team="visitorteam" player="Hammond" result="[0 - 1]" playerId="15713" eventid="6183721" />
+          <event type="goal" minute="51" team="localteam" player="Carew (pen.)" result="[1 - 1]" playerId="50384" eventid="6183722" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="590902" id="618371">
+        <localteam name="Farnborough" goals="3" id="9162" />
+        <visitorteam name="Thurrock" goals="2" id="9145" />
+        <events>
+          <event type="goal" minute="7" team="localteam" player="Bubb" result="[1 - 0]" playerId="82121" eventid="6183711" />
+          <event type="goal" minute="15" team="localteam" player="Malcolm" result="[2 - 0]" playerId="36383" eventid="6183712" />
+          <event type="goal" minute="47" team="visitorteam" player="O Lima" result="[2 - 1]" playerId="16546" eventid="6183713" />
+          <event type="goal" minute="61" team="localteam" player="Bubb" result="[3 - 1]" playerId="82121" eventid="6183714" />
+          <event type="goal" minute="69" team="visitorteam" player="Richards" result="[3 - 2]" playerId="2852" eventid="6183715" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="235302" id="618374">
+        <localteam name="Havant &amp; W" goals="1" id="9204" />
+        <visitorteam name="Staines Town" goals="1" id="9370" />
+        <events>
+          <event type="goal" minute="34" team="localteam" player="Williams" result="[1 - 0]" playerId="34146" eventid="6183741" />
+          <event type="goal" minute="73" team="visitorteam" player="Quiassaca" result="[1 - 1]" playerId="" eventid="6183742" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="235303" id="618373">
+        <localteam name="Maidenhead" goals="2" id="9255" />
+        <visitorteam name="Dartford" goals="3" id="9131" />
+        <events>
+          <event type="goal" minute="53" team="visitorteam" player="Sheringham" result="[0 - 1]" playerId="15800" eventid="6183731" />
+          <event type="goal" minute="68" team="visitorteam" player="Pallen" result="[0 - 2]" playerId="" eventid="6183732" />
+          <event type="goal" minute="72" team="visitorteam" player="Hayes" result="[0 - 3]" playerId="6953" eventid="6183733" />
+          <event type="goal" minute="79" team="localteam" player="Faulconbridge" result="[1 - 3]" playerId="123332" eventid="6183734" />
+          <event type="goal" minute="86" team="localteam" player="Louis" result="[2 - 3]" playerId="36196" eventid="6183735" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="235304" id="618376">
+        <localteam name="Welling" goals="4" id="9425" />
+        <visitorteam name="Basingstoke" goals="0" id="9026" />
+        <events>
+          <event type="goal" minute="14" team="localteam" player="Cumbers" result="[1 - 0]" playerId="50568" eventid="6183761" />
+          <event type="goal" minute="22" team="localteam" player="Martin" result="[2 - 0]" playerId="5245" eventid="6183762" />
+          <event type="goal" minute="30" team="localteam" player="Obersteller" result="[3 - 0]" playerId="36085" eventid="6183763" />
+          <event type="goal" minute="84" team="localteam" player="Coyle" result="[4 - 0]" playerId="108558" eventid="6183764" />
+        </events>
+        <ht score="[3-0]" />
+      </match>
+      <match status="FT" date="Apr 30" formatted_date="30.04.2011" time="14:00" fix_id="235305" id="618375">
+        <localteam name="Weston" goals="2" id="9428" />
+        <visitorteam name="Braintree" goals="1" id="9058" />
+        <events>
+          <event type="goal" minute="45" team="localteam" player="Kabba" result="[1 - 0]" playerId="139017" eventid="6183751" />
+          <event type="goal" minute="53" team="visitorteam" player="Gallen" result="[1 - 1]" playerId="15655" eventid="6183752" />
+          <event type="goal" minute="78" team="localteam" player="Price" result="[2 - 1]" playerId="36446" eventid="6183753" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="235284" id="612907">
+        <localteam name="Basingstoke" goals="1" id="9026" />
+        <visitorteam name="Boreham Wood" goals="0" id="9050" />
+        <events>
+          <event type="goal" minute="70" team="localteam" player="Draper" result="[1 - 0]" playerId="17653" eventid="6129071" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="235285" id="612908">
+        <localteam name="Braintree" goals="3" id="9058" />
+        <visitorteam name="Welling" goals="1" id="9425" />
+        <events>
+          <event type="goal" minute="10" team="localteam" player="Akurang" result="[1 - 0]" playerId="50379" eventid="6129081" />
+          <event type="goal" minute="23" team="localteam" player="Akurang" result="[2 - 0]" playerId="50379" eventid="6129082" />
+          <event type="goal" minute="72" team="visitorteam" player="Clarke" result="[2 - 1]" playerId="59374" eventid="6129083" />
+          <event type="goal" minute="90" team="localteam" player="Reason (pen.)" result="[3 - 1]" playerId="46300" eventid="6129084" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="235286" id="612909">
+        <localteam name="Chelmsford" goals="2" id="9091" />
+        <visitorteam name="Bromley" goals="0" id="9068" />
+        <events>
+          <event type="goal" minute="50" team="localteam" player="Gray (pen.)" result="[1 - 0]" playerId="50992" eventid="6129091" />
+          <event type="goal" minute="62" team="localteam" player="Tann" result="[2 - 0]" playerId="50673" eventid="6129092" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="465124" id="612911">
+        <localteam name="Dartford" goals="4" id="9131" />
+        <visitorteam name="Dover" goals="0" id="9000" />
+        <events>
+          <event type="goal" minute="24" team="localteam" player="Sheringham" result="[1 - 0]" playerId="15800" eventid="6129111" />
+          <event type="goal" minute="54" team="localteam" player="Champion" result="[2 - 0]" playerId="58724" eventid="6129112" />
+          <event type="goal" minute="57" team="localteam" player="Harris" result="[3 - 0]" playerId="56977" eventid="6129113" />
+          <event type="goal" minute="78" team="localteam" player="Sheringham" result="[4 - 0]" playerId="15800" eventid="6129114" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="235288" id="612910">
+        <localteam name="Dorchester" goals="2" id="9136" />
+        <visitorteam name="Farnborough" goals="1" id="9162" />
+        <events>
+          <event type="goal" minute="5" team="localteam" player="Critchell" result="[1 - 0]" playerId="36384" eventid="6129101" />
+          <event type="goal" minute="28" team="localteam" player="Walker" result="[2 - 0]" playerId="125228" eventid="6129102" />
+          <event type="goal" minute="80" team="visitorteam" player="King" result="[2 - 1]" playerId="2934" eventid="6129103" />
+        </events>
+        <ht score="[2-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="235290" id="612913">
+        <localteam name="Lewes" goals="1" id="9244" />
+        <visitorteam name="Bishop Stortford" goals="2" id="9042" />
+        <events>
+          <event type="goal" minute="43" team="visitorteam" player="Bakare" result="[0 - 1]" playerId="" eventid="6129131" />
+          <event type="goal" minute="45" team="visitorteam" player="Rance" result="[0 - 2]" playerId="161454" eventid="6129132" />
+          <event type="goal" minute="86" team="localteam" player="Hill" result="[1 - 2]" playerId="50558" eventid="6129133" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="465125" id="612912">
+        <localteam name="St. Albans" goals="1" id="6263" />
+        <visitorteam name="Havant &amp; W" goals="1" id="9204" />
+        <events>
+          <event type="goal" minute="35" team="localteam" player="Everitt" result="[1 - 0]" playerId="34026" eventid="6129121" />
+          <event type="goal" minute="66" team="visitorteam" player="Williams" result="[1 - 1]" playerId="34146" eventid="6129122" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="465126" id="612914">
+        <localteam name="Thurrock" goals="0" id="9145" />
+        <visitorteam name="Ebbsfleet" goals="0" id="9150" />
+        <events>
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="14:00" fix_id="235294" id="612915">
+        <localteam name="Woking" goals="4" id="9445" />
+        <visitorteam name="Weston" goals="3" id="9428" />
+        <events>
+          <event type="goal" minute="4" team="visitorteam" player="Price" result="[0 - 1]" playerId="36446" eventid="6129151" />
+          <event type="goal" minute="25" team="visitorteam" player="Kirk" result="[0 - 2]" playerId="139006" eventid="6129152" />
+          <event type="goal" minute="29" team="localteam" player="Dobson" result="[1 - 2]" playerId="51030" eventid="6129153" />
+          <event type="goal" minute="43" team="localteam" player="Ademola" result="[2 - 2]" playerId="50420" eventid="6129154" />
+          <event type="goal" minute="59" team="localteam" player="Hammond" result="[3 - 2]" playerId="15713" eventid="6129155" />
+          <event type="goal" minute="73" team="visitorteam" player="Kirk" result="[3 - 3]" playerId="139006" eventid="6129156" />
+          <event type="goal" minute="82" team="localteam" player="Burgess" result="[4 - 3]" playerId="36309" eventid="6129157" />
+        </events>
+        <ht score="[2-2]" />
+      </match>
+      <match status="FT" date="Apr 25" formatted_date="25.04.2011" time="12:00" fix_id="235289" id="612906">
+        <localteam name="Eastleigh" goals="3" id="9148" />
+        <visitorteam name="Hampton" goals="0" id="9195" />
+        <events>
+          <event type="goal" minute="39" team="localteam" player="Brown" result="[1 - 0]" playerId="874" eventid="6129061" />
+          <event type="goal" minute="42" team="localteam" player="Smith" result="[2 - 0]" playerId="69301" eventid="6129062" />
+          <event type="goal" minute="45" team="localteam" player="Taggart" result="[3 - 0]" playerId="67768" eventid="6129063" />
+        </events>
+        <ht score="[3-0]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: Fa Cup" id="1198" file_group="england">
+    <matches date="Apr 17" formatted_date="17.04.2011">
+      <match status="FT" date="Apr 17" formatted_date="17.04.2011" time="15:00" fix_id="440780" id="588118">
+        <localteam name="Bolton" goals="0" id="9048" />
+        <visitorteam name="Stoke" goals="5" id="9378" />
+        <events>
+          <event type="goal" minute="11" team="visitorteam" player="Etherington" result="[0 - 1]" playerId="2720" eventid="5881181" />
+          <event type="goal" minute="17" team="visitorteam" player="Huth" result="[0 - 2]" playerId="11" eventid="5881182" />
+          <event type="goal" minute="30" team="visitorteam" player="Jones" result="[0 - 3]" playerId="647" eventid="5881183" />
+          <event type="goal" minute="68" team="visitorteam" player="Walters" result="[0 - 4]" playerId="15748" eventid="5881184" />
+          <event type="goal" minute="81" team="visitorteam" player="Walters" result="[0 - 5]" playerId="15748" eventid="5881185" />
+        </events>
+        <ht score="[0-3]" />
+      </match>
+      <match status="FT" date="Apr 16" formatted_date="16.04.2011" time="16:15" fix_id="437322" id="588119">
+        <localteam name="Manchester City" goals="1" id="9259" />
+        <visitorteam name="Manchester Utd" goals="0" id="9260" />
+        <events>
+          <event type="goal" minute="52" team="localteam" player="Toure Y." result="[1 - 0]" playerId="4496" eventid="5881191" />
+          <event type="redcard" minute="72" team="visitorteam" player="Scholes" result="" playerId="2915" eventid="5881192" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Mar 13" formatted_date="13.03.2011" time="16:45" fix_id="364779" id="577376">
+        <localteam name="Manchester City" goals="1" id="9259" />
+        <visitorteam name="Reading" goals="0" id="9324" />
+        <events>
+          <event type="goal" minute="74" team="localteam" player="Richards" result="[1 - 0]" playerId="2852" eventid="5773761" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Mar 13" formatted_date="13.03.2011" time="14:00" fix_id="321838" id="571398">
+        <localteam name="Stoke" goals="2" id="9378" />
+        <visitorteam name="West Ham" goals="1" id="9427" />
+        <events>
+          <event type="goal" minute="12" team="localteam" player="Huth" result="[1 - 0]" playerId="11" eventid="5713981" />
+          <event type="goal" minute="30" team="visitorteam" player="Piquionne" result="[1 - 1]" playerId="1328" eventid="5713982" />
+          <event type="goal" minute="63" team="localteam" player="Higginbotham" result="[2 - 1]" playerId="18836" eventid="5713983" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+      <match status="FT" date="Mar 12" formatted_date="12.03.2011" time="17:15" fix_id="364778" id="577375">
+        <localteam name="Manchester Utd" goals="2" id="9260" />
+        <visitorteam name="Arsenal" goals="0" id="9002" />
+        <events>
+          <event type="goal" minute="28" team="localteam" player="Fabio" result="[1 - 0]" playerId="61064" eventid="5773751" />
+          <event type="goal" minute="49" team="localteam" player="Rooney" result="[2 - 0]" playerId="193" eventid="5773752" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+      <match status="FT" date="Mar 12" formatted_date="12.03.2011" time="12:45" fix_id="320761" id="571397">
+        <localteam name="Birmingham" goals="2" id="9039" />
+        <visitorteam name="Bolton" goals="3" id="9048" />
+        <events>
+          <event type="goal" minute="21" team="visitorteam" player="Elmander" result="[0 - 1]" playerId="1302" eventid="5713971" />
+          <event type="goal" minute="38" team="localteam" player="Jerome" result="[1 - 1]" playerId="16031" eventid="5713972" />
+          <event type="goal" minute="66" team="visitorteam" player="Davies K. (pen.)" result="[1 - 2]" playerId="2634" eventid="5713973" />
+          <event type="goal" minute="80" team="localteam" player="Phillips" result="[2 - 2]" playerId="2810" eventid="5713974" />
+          <event type="goal" minute="90" team="visitorteam" player="Lee" result="[2 - 3]" playerId="26921" eventid="5713975" />
+        </events>
+        <ht score="[1-1]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: Fa Trophy" id="1196" file_group="england">
+    <matches date="May 07" formatted_date="07.05.2011">
+      <match status="AET" date="May 07" formatted_date="07.05.2011" time="14:00" fix_id="441112" id="593257">
+        <localteam name="Darlington" goals="1" id="9130" />
+        <visitorteam name="Mansfield" goals="0" id="9262" />
+        <events>
+          <event type="goal" minute="120" team="localteam" player="Senior" result="[1 - 0]" playerId="35858" eventid="5932571" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Mar 19" formatted_date="19.03.2011" time="15:00" fix_id="403865" id="584799">
+        <localteam name="Gateshead" goals="0" id="9178" />
+        <visitorteam name="Darlington" goals="0" id="9130" />
+        <events>
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="AET" date="Mar 19" formatted_date="19.03.2011" time="15:00" fix_id="435610" id="583846">
+        <localteam name="Luton" goals="1" id="9253" />
+        <visitorteam name="Mansfield" goals="1" id="9262" />
+        <events>
+          <event type="goal" minute="46" team="localteam" player="Owusu" result="[1 - 0]" playerId="51213" eventid="5838461" />
+          <event type="redcard" minute="84" team="localteam" player="Gnakpa" result="" playerId="53534" eventid="5838462" />
+          <event type="redcard" minute="89" team="localteam" player="Lawless" result="" playerId="36238" eventid="5838463" />
+          <event type="goal" minute="118" team="visitorteam" player="Briscoe" result="[1 - 1]" playerId="76789" eventid="5838464" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Mar 13" formatted_date="13.03.2011" time="12:00" fix_id="435609" id="583844">
+        <localteam name="Mansfield" goals="1" id="9262" />
+        <visitorteam name="Luton" goals="0" id="9253" />
+        <events>
+          <event type="goal" minute="62" team="localteam" player="Mitchley" result="[1 - 0]" playerId="67150" eventid="5838441" />
+        </events>
+        <ht score="[0-0]" />
+      </match>
+      <match status="FT" date="Mar 12" formatted_date="12.03.2011" time="15:00" fix_id="403864" id="582291">
+        <localteam name="Darlington" goals="3" id="9130" />
+        <visitorteam name="Gateshead" goals="2" id="9178" />
+        <events>
+          <event type="goal" minute="20" team="visitorteam" player="Fisher" result="[0 - 1]" playerId="31915" eventid="5822911" />
+          <event type="goal" minute="44" team="visitorteam" player="Rundle" result="[0 - 2]" playerId="50714" eventid="5822912" />
+          <event type="goal" minute="55" team="localteam" player="Bridge-Wilkinson" result="[1 - 2]" playerId="" eventid="5822913" />
+          <event type="goal" minute="76" team="localteam" player="Hatch" result="[2 - 2]" playerId="51087" eventid="5822914" />
+          <event type="goal" minute="81" team="localteam" player="Hatch" result="[3 - 2]" playerId="51087" eventid="5822915" />
+        </events>
+        <ht score="[0-2]" />
+      </match>
+      <match status="FT" date="Mar 08" formatted_date="08.03.2011" time="19:45" fix_id="341065" id="576755">
+        <localteam name="Mansfield" goals="3" id="9262" />
+        <visitorteam name="Chasetown" goals="1" id="9089" />
+        <events>
+          <event type="goal" minute="36" team="localteam" player="Murray" result="[1 - 0]" playerId="36265" eventid="5767551" />
+          <event type="goal" minute="53" team="visitorteam" player="Jevons" result="[1 - 1]" playerId="15932" eventid="5767552" />
+          <event type="goal" minute="57" team="localteam" player="Briscoe" result="[2 - 1]" playerId="76789" eventid="5767553" />
+          <event type="goal" minute="77" team="localteam" player="Mitchley" result="[3 - 1]" playerId="67150" eventid="5767554" />
+        </events>
+        <ht score="[1-0]" />
+      </match>
+    </matches>
+  </category>
+  <category name="England: Johnstone'S Paint Trophy" id="1200" file_group="england">
+    <matches date="Apr 03" formatted_date="03.04.2011">
+      <match status="FT" date="Apr 03" formatted_date="03.04.2011" time="12:30" fix_id="247590" id="571837">
+        <localteam name="Brentford" goals="0" id="9059" />
+        <visitorteam name="Carlisle" goals="1" id="9084" />
+        <events>
+          <event type="goal" minute="12" team="visitorteam" player="Murphy" result="[0 - 1]" playerId="55708" eventid="5718371" />
+          <event type="redcard" minute="87" team="localteam" player="Diagouraga" result="" playerId="15448" eventid="5718372" />
+        </events>
+        <ht score="[0-1]" />
+      </match>
+    </matches>
+  </category>
+</scores>
